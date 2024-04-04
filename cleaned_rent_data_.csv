@@ -1,0 +1,1290 @@
+,Address,Price,Beds,Baths,Area_Sqft,City,Zipcode,Parking_Size,In_Unit_Aminity_Count,Community_Aminity_Count
+0,"Palmia, Aged 55+ Luxury Apartments47207 Mission Falls Ct,Fremont, CA 94539",3020,2,2,927.5,Fremont,94539,1,9,9
+1,"Creekside Village2999 Sequoia Ter,Fremont, CA 94536",2551,2,2,775.0,Fremont,94536,1,15,25
+2,"Sundale North And South39900 Blacow Rd,Fremont, CA 94538",2250,2,1.5,805.5,Fremont,94538,1,10,12
+3,"39993 Fremont Blvd,Fremont, CA 94538",2300,1,1,931.0,Fremont,94538,0,10,2
+4,"Pebble Creek Communities40777 High St,Fremont, CA 94538",2430,2,1,774.0,Fremont,94538,1,14,12
+5,"Archstone Fremont Center39410 Civic Center Dr,Fremont, CA 94538",2636,3,2,1247.0,Fremont,94538,1,15,14
+6,"eaves Fremont231 Woodcreek Cmn,Fremont, CA 94539",2370,2,2,801.0,Fremont,94539,2,11,15
+7,"Camden Village38000 Camden St,Fremont, CA 94536",1995,2,1.5,736.5,Fremont,94536,0,17,23
+8,"Windsor Garden4425 Bidwell Dr,Fremont, CA 94538",2200,1,1,600.0,Fremont,94538,1,13,12
+9,"Ardenwood Forest5016 Paseo Padre Pkwy,Fremont, CA 94555",2250,2,2,719.5,Fremont,94555,2,14,14
+10,"Durham Greens Apartments43555 Grimmer Blvd,Fremont, CA 94538",2395,2,2,739.5,Fremont,94538,1,9,17
+11,"3532 Braxton Cmn,Fremont, CA 94538",3380,2,2.5,1317.0,Fremont,94538,0,6,3
+12,"Oak Pointe Apartments4140 Irvington Ave,Fremont, CA 94538",2985,3,2,1195.0,Fremont,94538,1,10,9
+13,"Watermark Place38680 Waterside Cir,Fremont, CA 94536",2503,2,2,990.0,Fremont,94536,1,12,21
+14,"Avalon Fremont39939 Stevenson Cmn,Fremont, CA 94538",2322,3,3,1065.0,Fremont,94538,1,2,14
+15,"1066 Dolphin Cmn,Fremont, CA 94536",3300,2,2.5,1178.0,Fremont,94536,0,3,2
+16,"Carrington Apartments (Fremont)4875 Mowry Ave,Fremont, CA 94538",1980,2,1,784.0,Fremont,94538,1,13,10
+17,"Mission Sierra34864 Mission Blvd,Union City, CA 94587",2425,2,2,755.0,Fremont,94587,1,10,15
+18,"2348 Kinetic Cmn,Fremont, CA 94539",4500,2,2,1725.0,Fremont,94539,0,9,4
+19,"4103 Crestwood St,Fremont, CA 94538",3400,3,1,1008.0,Fremont,94538,0,2,0
+20,"3512 Vision Cmn,Fremont, CA 94539",2995,1,1,770.0,Fremont,94539,0,11,4
+21,"38232 Luma Ter,Newark, CA 94560",4350,4,3.5,2215.0,Fremont,94560,0,10,2
+22,"35523 Dee Pl,Fremont, CA 94536",3999,3,2,1853.0,Fremont,94536,0,10,0
+23,"34631 Musk Ter,Fremont, CA 94555",2500,1,1,634.0,Fremont,94555,0,3,1
+24,"3597 Dayton Cmn,Fremont, CA 94538",3850,3,2.5,1637.0,Fremont,94538,0,1,1
+25,"3252 Red Cedar Ter,Fremont, CA 94536",1920,0,1,421.0,Fremont,94536,0,9,7
+26,"43474 Lindenwood St,Fremont, CA 94538",3800,3,2,1600.0,Fremont,94538,0,7,0
+27,"3136 Mission View Dr,Fremont, CA 94538",3400,3,1.5,1050.0,Fremont,94538,0,1,1
+28,"Alborada Apartments1001 Beethoven Cmn,Fremont, CA 94538",2409,3,3,1129.0,Fremont,94538,1,12,9
+29,"Furnished Studio - Fremont - Newark5375 Farwell Pl,Fremont, CA 94536",2580,0,1,300.0,Fremont,94536,1,20,17
+30,"Regency Square Apartments4917 Central Ave,Fremont, CA 94536",2300,3,2,844.0,Fremont,94536,2,11,11
+31,"37373 Sequoia Rd,Fremont, CA 94536",2590,2,1,750.0,Fremont,94536,0,2,1
+32,"Carriage House Apartments3900 Monroe Ave,Fremont, CA 94536",2275,2,1,878.0,Fremont,94536,1,10,9
+33,"Furnished Studio - Fremont - Fremont Blvd. South46080 Fremont Blvd,Fremont, CA 94538",2250,0,1,300.0,Fremont,94538,0,11,13
+34,"4163 Irvington Ave,Fremont, CA 94538",2650,2,2,859.0,Fremont,94538,0,1,1
+35,"36996 Meadowbrook Cmn #202,Fremont, CA 94536",2950,2,2,981.0,Fremont,94536,0,2,2
+36,"4909 Roselle Cmn,Fremont, CA 94536",3890,4,3,2054.0,Fremont,94536,0,3,1
+37,"36742 Oak St,Fremont, CA 94536",4300,4,2,1725.0,Fremont,94536,0,5,2
+38,"4352 Cahill St,Fremont, CA 94538",3650,3,2,1581.0,Fremont,94538,0,2,0
+39,"4009 Ralston Cmn Unit 4009,Fremont, CA 94538",3575,3,2,1390.0,Fremont,94538,0,5,2
+40,"48934 Ventura Dr,Fremont, CA 94539",5800,4,3,2635.0,Fremont,94539,0,4,1
+41,"350 Franciscan Ct,Fremont, CA 94539",1995,1,1,670.0,Fremont,94539,0,0,0
+42,"39647 Embarcadero Ter,Fremont, CA 94538",3600,3,2.5,1582.0,Fremont,94538,0,5,0
+43,"32990 Lake Wawasee St,Fremont, CA 94555",2800,2,1.5,960.0,Fremont,94555,0,3,0
+44,"4789 Hilo St,Fremont, CA 94538",3600,3,2,1532.0,Fremont,94538,0,3,0
+45,"3909 Stevenson Blvd #703,Fremont, CA 94538",2100,1,1,677.0,Fremont,94538,0,1,0
+46,"37733 Arlene Ct,Fremont, CA 94536",1247256,3,2,1521.0,Fremont,94536,0,0,0
+47,"38228 Paseo Padre Pkwy #32,Fremont, CA 94536",2600,2,2.5,934.0,Fremont,94536,0,4,1
+48,"4737 Thornton Ave,Fremont, CA 94536",2050,2,1,750.0,Fremont,94536,0,1,0
+49,"2280 Camellia Ct,Fremont, CA 94539",4250,3,2,1606.0,Fremont,94539,0,3,1
+50,"4636 Victoria Ave,Fremont, CA 94538",3300,3,2,1452.0,Fremont,94538,0,3,1
+51,"5579 Ridgewood Dr,Fremont, CA 94555",4095,4,3,2039.0,Fremont,94555,0,3,1
+52,"37847 Niles Blvd,Fremont, CA 94536",1750,1,1,700.0,Fremont,94536,0,0,0
+53,"35241 Cabrillo Dr,Fremont, CA 94536",3490,3,2,1304.0,Fremont,94536,0,2,0
+54,"34525 MELISSA Ter,Fremont, CA 94555",1434479,4,2.5,1552.0,Fremont,94555,0,0,0
+55,"34060 Macmillan Way,Fremont, CA 94555",3300,4,2,1474.0,Fremont,94555,0,1,0
+56,"4370 Hyde Cmn,Fremont, CA 94538",3890,4,3.5,1738.0,Fremont,94538,0,3,1
+57,"37854 Taro Ter,Newark, CA 94560",3700,3,3,1540.0,Fremont,94560,0,2,0
+58,"45128 Warm Springs Blvd,Fremont, CA 94539",4399,3,2,1770.0,Fremont,94539,0,6,3
+59,"45188 Tom Blalock St #109,Fremont, CA 94539",4300,3,2,1891.0,Fremont,94539,0,2,3
+60,"42111 Osgood Rd #311,Fremont, CA 94539",3690,3,2,1118.0,Fremont,94539,0,1,1
+61,"36357 Perkins St,Fremont, CA 94536",4500,4,3,2160.0,Fremont,94536,0,4,0
+62,"45258 Tom Blalock St #308,Fremont, CA 94539",3800,2,2,1265.0,Fremont,94539,0,3,4
+63,"38891 Fremont Blvd,Fremont, CA 94536",2695,2,1,875.0,Fremont,94536,0,4,1
+64,"Priya Living Warm Springs250 Franciscan Ct,Fremont, CA 94539",2595,1,1,650.0,Fremont,94539,0,0,0
+65,"42824 Fontainebleau Park Ln,Fremont, CA 94538",3600,3,2,1600.0,Fremont,94538,0,3,0
+66,"3695 Stevenson Blvd Unit C229,Fremont, CA 94538",2750,2,2,1040.0,Fremont,94538,0,3,3
+67,"39867 Fremont Blvd,Fremont, CA 94538",2350,1,1,744.0,Fremont,94538,0,3,2
+68,"38848 Bell St,Fremont, CA 94536",4000,3,2,1600.0,Fremont,94536,0,2,0
+69,"4436 Gibraltar Dr,Fremont, CA 94536",3800,3,2,1630.0,Fremont,94536,0,7,0
+70,"3655 Birchwood Ter #312,Fremont, CA 94536",2200,1,1,714.0,Fremont,94536,0,2,1
+71,"1980 Barrymore Cmn Unit O,Fremont, CA 94538",2549,2,1,882.0,Fremont,94538,0,3,2
+72,"161 Gable Dr,Fremont, CA 94539",3950,4,2,1822.0,Fremont,94539,0,2,0
+73,"3880 Springfield Cmn,Fremont, CA 94555",3750,4,2,1898.0,Fremont,94555,0,3,0
+74,"39993 Fremont Blvd #203,Fremont, CA 94538",2100,1,1,922.0,Fremont,94538,0,3,1
+75,"1181 Casa Marcia Pl,Fremont, CA 94539",3850,3,2,1564.0,Fremont,94539,0,5,0
+76,"4073 BECERRA Dr,Fremont, CA 94536",1641257,4,2,1476.0,Fremont,94536,0,0,0
+77,"4764 Woodduck Cmn,Fremont, CA 94555",3795,3,2.5,1607.0,Fremont,94555,0,7,0
+78,"93 King Ave,Fremont, CA 94536",4600,3,2.5,2132.0,Fremont,94536,0,5,1
+79,"37625 CENTRAL COVE Ct,Fremont, CA 94536-6667",1633452,4,2.5,2014.0,Fremont,-6667,0,0,0
+80,"4412 Crestwood St,Fremont, CA 94538",3600,4,2,1480.0,Fremont,94538,0,8,0
+81,"38627 Cherry Ln #38,Fremont, CA 94536",3050,3,1.5,1199.0,Fremont,94536,0,1,1
+82,"34113 Via Lucca,Fremont, CA 94555",3690,3,3.5,1617.0,Fremont,94555,0,4,0
+83,"250 Franciscan Ct Unit 1-20,Fremont, CA 94539",2695,1,1,650.0,Fremont,94539,0,3,1
+84,"41342 Roberts Ave Unit 10,Fremont, CA 94538",2500,2,1,855.0,Fremont,94538,0,2,1
+85,"44899 Challenge Cmn #402,Fremont, CA 94538",4500,3,2,1528.0,Fremont,94538,0,6,0
+86,"37112 Maple St Unit 5,Fremont, CA 94536",1100,0,1,545.0,Fremont,94536,0,3,2
+87,"37112 Maple St,Fremont, CA 94536",1100,1,1,545.0,Fremont,94536,0,0,0
+88,"41342 Roberts Ave Unit 11,Fremont, CA 94538",2995,3,1.5,1048.0,Fremont,94538,0,5,2
+89,"43563 Ellsworth St Unit 3,Fremont, CA 94539",2995,3,2,1235.0,Fremont,94539,0,3,0
+90,"38848 Bell St Unit 1,Fremont, CA 94536",2999,2,2,850.0,Fremont,94536,0,5,1
+91,"38784 Huntington Cir,Fremont, CA 94536",2800,2,2,840.0,Fremont,94536,0,7,0
+92,"Garden Village Apartments36707 San Pedro Dr,Fremont, CA 94536",2100,1,1,625.0,Fremont,94536,3,3,0
+93,"467 Crab Apple Ter,Fremont, CA 94539",4398,3,3.5,2013.0,Fremont,94539,0,1,1
+94,"38780 Tyson Ln Unit 106,Fremont, CA 94536",2600,1,1,889.0,Fremont,94536,0,3,0
+95,"Fremont Pines Apartments37675 Fremont Blvd,Fremont, CA 94536",1980,2,1.5,779.5,Fremont,94536,1,6,3
+96,"Furnished Studio - Fremont - Warm Springs46312 Mission Blvd,Fremont, CA 94539",2378,0,1,300.0,Fremont,94539,0,12,14
+97,"40741 Marino Ct,Fremont, CA 94539",3750,3,2,1700.0,Fremont,94539,0,6,0
+98,"River View250 Brandon St,San Jose, CA 95134",2610,2,2,877.0,San Jose,95134,0,4,1
+99,"Elan At River Oaks345 Village Center Dr,San Jose, CA 95134",2621,2,2,877.5,San Jose,95134,1,18,24
+100,"320 Crescent Village Cir,San Jose, CA 95134",2620,2,2,1053.5,San Jose,95134,0,4,1
+101,"Ascent Apartments5805 Charlotte Dr,San Jose, CA 95123",2551,3,2,1052.5,San Jose,95123,1,17,23
+102,"Sixth & Jackson Apartments620 N 6th St,San Jose, CA 95112",2537,3,2,1104.0,San Jose,95112,1,6,7
+103,"Avalon At Cahill Park754 The Alameda,San Jose, CA 95126",2480,2,2,948.5,San Jose,95126,1,10,9
+104,"3901 Lick Mill Blvd #127,Santa Clara, CA 95054",3300,2,2,1192.0,San Jose,95054,0,4,0
+105,"Woodland Meadow1600 Whitewood Dr,San Jose, CA 95131",2721,3,3,1137.0,San Jose,95131,1,13,18
+106,"5560 Lexington Ave,San Jose, CA 95123",2255,2,2,846.0,San Jose,95123,0,11,10
+107,"North Park3500 Palmilla Dr,San Jose, CA 95134",2405,3,2,963.5,San Jose,95134,0,4,1
+108,"Almaden Apartments1501 Almaden Expy,San Jose, CA 95125",1963,2,2,805.0,San Jose,95125,0,10,16
+109,"Central Park Apartments1750 Stokes St,San Jose, CA 95126",2850,2,2,875.0,San Jose,95126,2,12,10
+110,"One Pearl Place5230 Terner Way,San Jose, CA 95136",3083,2,2,996.0,San Jose,95136,1,21,17
+111,"Saybrook Pointe Apartment Homes401 Briar Ridge Dr,San Jose, CA 95123",2519,2,2,916.0,San Jose,95123,2,7,9
+112,"Vista 9999 Vista Montana,San Jose, CA 95134",2808,3,3,1085.0,San Jose,95134,0,13,13
+113,"Legacy Fountain Plaza190 Ryland St,San Jose, CA 95110",2555,3,2,1032.0,San Jose,95110,1,7,7
+114,"The Taft477 S Market St,San Jose, CA 95113",2392,2,2,752.5,San Jose,95113,1,13,6
+115,"Avalon on The Alameda1300 The Alameda,San Jose, CA 95126",2418,2,2,924.5,San Jose,95126,1,7,10
+116,"Monterey Grove Apartments6100 Monterey Hwy,San Jose, CA 95138",2389,3,3,950.0,San Jose,95138,3,9,8
+117,"Avalon Willow Glen3200 Rubino Dr,San Jose, CA 95125",2585,2,2,928.5,San Jose,95125,3,14,14
+118,"Furnished Studio - San Jose - Downtown1560 N First St,San Jose, CA 95112",3150,0,1,300.0,San Jose,95112,0,12,16
+119,"Amberwood Apartments1543 Ambergrove Dr,San Jose, CA 95131",2595,2,2,810.5,San Jose,95131,2,15,16
+120,"3127 Loma Verde Dr #20,San Jose, CA 95117",3250,2,2.5,1306.0,San Jose,95117,0,6,0
+121,"Almaden Lake Village1045 Coleman Rd,San Jose, CA 95123",2400,2,2,848.5,San Jose,95123,1,1,11
+122,"Shelter Creek2050 Southwest Expy,San Jose, CA 95126",2595,2,1,830.0,San Jose,95126,2,15,12
+123,"2038 Tarob Ct,Milpitas, CA 95035",4295,3,2.5,1979.0,San Jose,95035,0,4,1
+124,"Furnished Studio - San Jose - Santa Clara2131 Gold St,San Jose, CA 95002",2664,0,1,300.0,San Jose,95002,0,16,16
+125,"Blue Hills1111 Weyburn Ln,San Jose, CA 95129",2400,1,1,675.0,San Jose,95129,0,10,6
+126,"The Glens Apartments1515 Alta Glen Dr,San Jose, CA 95125",2825,2,2,1188.0,San Jose,95125,1,14,5
+127,"689 Locust St,San Jose, CA 95110",1895,1,1,500.0,San Jose,95110,0,1,2
+128,"Villa Torino29 W Julian St,San Jose, CA 95110",2642,2,2,1005.0,San Jose,95110,0,15,19
+129,"Cedar Glen Apartments2275 S Bascom Ave,Campbell, CA 95008",2455,2,2,773.5,San Jose,95008,2,15,15
+130,"Avalon Morrison Park345 Stockton Ave,San Jose, CA 95126",2808,3,3.5,1298.5,San Jose,95126,0,5,11
+131,"1037 Chagall Way,San Jose, CA 95138",3200,2,2.5,1291.0,San Jose,95138,0,1,1
+132,"Verde5322 Wong Ct,San Jose, CA 95123",2383,2,2,800.5,San Jose,95123,0,10,8
+133,"Cherrywood4951 Cherry Ave,San Jose, CA 95118",2655,3,2.5,862.5,San Jose,95118,0,14,19
+134,"Valley West Apartments1050 Summerside Dr,San Jose, CA 95122",2085,2,2,795.0,San Jose,95122,2,15,14
+135,"275 Morrene Dr,Campbell, CA 95008",3995,3,2,1300.0,San Jose,95008,0,1,0
+136,"Summerwind Apartments2055 Summerside Dr,San Jose, CA 95122",2575,3,2,1259.0,San Jose,95122,1,16,5
+137,"1776 Apartments1776 Almaden Rd,San Jose, CA 95125",2250,2,2,709.5,San Jose,95125,1,11,11
+138,"Colonnade201 S 4th St,San Jose, CA 95112",2131,2,2,937.5,San Jose,95112,0,2,8
+139,"76 Southsea Ct,San Jose, CA 95138",4350,4,3,1521.0,San Jose,95138,0,5,1
+140,"121 Tasman121 E Tasman Dr,San Jose, CA 95134",2789,2,2,806.5,San Jose,95134,2,8,11
+141,"289 Tradewinds Dr #8,San Jose, CA 95123",2995,3,2,1252.0,San Jose,95123,0,0,0
+142,"1018 S 6th St,San Jose, CA 95112",2695,2,1,816.0,San Jose,95112,0,1,0
+143,"1055 N Capitol Ave #20,San Jose, CA 95133",2595,2,2,832.0,San Jose,95133,0,2,0
+144,"Woodleaf325 Union Ave,Campbell, CA 95008",2392,2,2,725.0,San Jose,95008,0,11,8
+145,"Siena Apartment Homes7375 Rollingdell Dr,Cupertino, CA 95014",2895,2,2,934.0,San Jose,95014,1,15,16
+146,"La Moraga Apartments5822 Charlotte Dr,San Jose, CA 95123",2227,3,2,1027.0,San Jose,95123,2,17,19
+147,"1034 Marianelli Ct,San Jose, CA 95112",4000,3,2,1178.0,San Jose,95112,0,1,0
+148,"eaves West Valley700 Saratoga Ave,San Jose, CA 95129",1891,2,2,703.5,San Jose,95129,0,3,9
+149,"1383 Pinehurst Sq,San Jose, CA 95117",3400,2,1,1000.0,San Jose,95117,0,10,2
+150,"265 Laurel Grove Ln,San Jose, CA 95126",3890,4,2.5,1650.0,San Jose,95126,0,6,0
+151,"915 Del Mar Ave,San Jose, CA 95128",2250,2,1,875.0,San Jose,95128,0,1,1
+152,"1622 Lorient Ter,San Jose, CA 95133",3850,3,2.5,1776.0,San Jose,95133,0,11,1
+153,"435 Milan Dr,San Jose, CA 95134",2750,1,1,948.0,San Jose,95134,0,6,2
+154,"5673 Drysdale Dr,San Jose, CA 95124",4500,3,2,1258.0,San Jose,95124,0,6,0
+155,"2653 Middleborough Cir,San Jose, CA 95132",4470,3,2,1838.0,San Jose,95132,0,2,0
+156,"Nortree St,San Jose, CA 95148",4400,4,2,1723.0,San Jose,95148,0,10,0
+157,"3256 Cropley Ave,San Jose, CA 95132",3000,2,1,968.0,San Jose,95132,0,6,1
+158,"1060 S 3rd St,San Jose, CA 95112",3000,2,2,1000.0,San Jose,95112,0,10,5
+159,"445 S 3rd St,San Jose, CA 95112",1795,0,1,650.0,San Jose,95112,0,2,0
+160,"3670 Jasmine Cir,San Jose, CA 95135",3750,3,2.5,1545.0,San Jose,95135,0,10,3
+161,"488 Baltimore Pl,San Jose, CA 95123",3500,3,3.5,1810.0,San Jose,95123,0,5,0
+162,"633 Yolo Ct,San Jose, CA 95136",2900,2,2,912.0,San Jose,95136,0,10,0
+163,"1113 Doralee Way,San Jose, CA 95125",3395,2,1.5,1085.0,San Jose,95125,0,2,1
+164,"821 Date Palm Ct,San Jose, CA 95133",3950,4,2.5,1797.0,San Jose,95133,0,10,0
+165,"17780 McKinnon Dr,San Jose, CA 95130",3850,3,1,1100.0,San Jose,95130,0,9,0
+166,"2290 Cochrane Rd,Morgan Hill, CA 95037",2900,2,2,1100.0,San Jose,95037,0,8,0
+167,"971 Yarmouth Way,San Jose, CA 95120",5995,5,3,3004.0,San Jose,95120,0,4,1
+168,"El Castillo Metro Apartments1040 N 4th St,San Jose, CA 95112",1900,0,1,530.0,San Jose,95112,1,15,4
+169,"4300 The Woods Dr,San Jose, CA 95136",1995,1,1.5,731.5,San Jose,95136,0,19,23
+170,"The Monterey3510 Moorpark Ave,San Jose, CA 95117",2180,2,2,847.5,San Jose,95117,1,11,10
+171,"1158 Illiad Ct,San Jose, CA 95118",3695,3,2.5,1348.0,San Jose,95118,0,1,0
+172,"Tanglewood970 Meridian Ave,San Jose, CA 95126",2395,2,2,802.5,San Jose,95126,1,14,14
+173,"Furnished Studio - San Jose - Edenvale - North6199 San Ignacio Ave,San Jose, CA 95119",2572,0,1,300.0,San Jose,95119,0,17,14
+174,"Sycamore Park398 Boynton Ave,San Jose, CA 95117",1825,1,1,565.0,San Jose,95117,1,11,8
+175,"Rosewalk3601 Copperfield Dr,San Jose, CA 95136",2570,2,2,940.5,San Jose,95136,2,12,15
+176,"3245 Riddle Rd,San Jose, CA 95117",3650,3,2,2144.0,San Jose,95117,0,4,0
+177,"Koi Creek1150 Pedro St,San Jose, CA 95126",1900,1,1,490.0,San Jose,95126,1,13,10
+178,"Moorpark Garden Apartments2966 Moorpark Ave,San Jose, CA 95128",2195,2,1.5,856.0,San Jose,95128,1,16,7
+179,"Furnished Studio - San Jose - Edenvale - South6189 San Ignacio Ave,San Jose, CA 95119",2872,0,1,300.0,San Jose,95119,0,11,13
+180,"2643 S Bascom Ave,Campbell, CA 95008",2095,1,1,600.0,San Jose,95008,0,1,1
+181,"Atrium Garden Studios1536 Kerley Dr,San Jose, CA 95112",1475,0,1,355.0,San Jose,95112,2,2,5
+182,"470 Apartments470 S 11th St,San Jose, CA 95112",2495,3,2,904.5,San Jose,95112,1,7,8
+183,"3983 Chamberer Dr,San Jose, CA 95135",2095,1,1,700.0,San Jose,95135,0,2,0
+184,"51 Glen Eyrie Ave,San Jose, CA 95125",2050,1,1,550.0,San Jose,95125,0,1,1
+185,"1955 Postgate Ct,San Jose, CA 95121",3500,4,2,1320.0,San Jose,95121,0,3,1
+186,"1204 Redcliff Dr,San Jose, CA 95118",4500,3,3,1786.0,San Jose,95118,0,3,0
+187,"396 Sunpark Pl,San Jose, CA 95136",3600,3,2,1415.0,San Jose,95136,0,4,1
+188,"4122 Horizon Ln,San Jose, CA 95148",4390,4,3,2436.0,San Jose,95148,0,2,0
+189,"3044 Shadow Springs Pl,San Jose, CA 95121",2795,2,1,866.0,San Jose,95121,0,2,1
+190,"1027 Nightfall Ct,San Jose, CA 95120",4590,4,2,2167.0,San Jose,95120,0,3,2
+191,"590 Almaden Walk Loop,San Jose, CA 95125",3500,3,3,1425.0,San Jose,95125,0,4,1
+192,"1511 Primm Ave,San Jose, CA 95122",4100,4,3,1236.0,San Jose,95122,0,2,1
+193,"3965 Bismarck Dr,San Jose, CA 95130",3200,3,1,1100.0,San Jose,95130,0,0,1
+194,"1137 Roewill Dr,San Jose, CA 95117",1795,1,1,700.0,San Jose,95117,0,0,0
+195,"102 Sunol St,San Jose, CA 95126",4200,3,3,1463.0,San Jose,95126,0,2,2
+196,"4441 Laird Cir,Santa Clara, CA 95054",4400,3,2.5,1700.0,San Jose,95054,0,2,2
+197,"2018 Sonador Cmns,San Jose, CA 95128",3695,3,2,1393.0,San Jose,95128,0,3,3
+198,"1771 Nelson Way,San Jose, CA 95124",1340,1,1,121.0,San Jose,95124,0,0,0
+199,"860 Calhoun St,San Jose, CA 95116",2250,2,1,860.0,San Jose,95116,0,0,0
+200,"120 Asbury St,San Jose, CA 95110",2650,2,1,1200.0,San Jose,95110,0,1,0
+201,"716 E Santa Clara St,San Jose, CA 95112",1850,1,1,600.0,San Jose,95112,0,0,0
+202,"2236 Curtner Ave,San Jose, CA 95124",1895,1,1,590.0,San Jose,95124,0,0,0
+203,"53 S 9th St,San Jose, CA 95112",2400,2,1,500.0,San Jose,95112,0,3,0
+204,"1530 Calaveras Ave,San Jose, CA 95126",4995,3,2,1719.0,San Jose,95126,0,4,0
+205,"1445 Fruitdale Ave,San Jose, CA 95128",3700,2,2,1170.0,San Jose,95128,0,5,3
+206,"105 Roundtable Dr,San Jose, CA 95111",2350,2,1,800.0,San Jose,95111,0,0,0
+207,"2033 Beatrice Ct,San Jose, CA 95128",1895,1,1,600.0,San Jose,95128,0,1,1
+208,"1451 Curci Dr,San Jose, CA 95126",2395,1,1,810.0,San Jose,95126,0,1,1
+209,"1424 Keoncrest Ave,San Jose, CA 95110",3600,3,2,1347.0,San Jose,95110,0,0,1
+210,"2639 Heritage Park Cir,San Jose, CA 95132",3850,3,2.5,1850.0,San Jose,95132,0,6,2
+211,"584 Via Primavera Ct,San Jose, CA 95111",3195,2,2,1332.0,San Jose,95111,0,3,0
+212,"3157 Payne Ave #23,San Jose, CA 95117",3850,3,2.5,1360.0,San Jose,95117,0,7,1
+213,"961 Sunbonnet Loop,San Jose, CA 95125",5299,4,2.5,2069.0,San Jose,95125,0,7,1
+214,"1780 Senter Rd,San Jose, CA 95112",2595,2,1,921.0,San Jose,95112,0,0,0
+215,"650 N 15th St,San Jose, CA 95112",2900,1,1,550.0,San Jose,95112,0,0,0
+216,"211 Pecan Grove Ct,SAN JOSE, CA 95123",669171,2,1.5,950.0,San Jose,95123,0,0,0
+217,"750 S 11th St,San Jose, CA 95112",1968,1,1,600.0,San Jose,95112,0,0,0
+218,"2042 McKenzie Pl,San Jose, CA 95131",4495,4,2.5,1972.0,San Jose,95131,0,3,0
+219,"202 Litchi Grove Ct,San Jose, CA 95123",2800,2,1.5,950.0,San Jose,95123,0,1,1
+220,"684 Vine St,San Jose, CA 95110",1795,1,1,525.0,San Jose,95110,0,0,0
+221,"1735 Flint Creek Way,San Jose, CA 95148",4160,3,2.5,1622.0,San Jose,95148,0,4,4
+222,"6090 Montgomery Ct,San Jose, CA 95135",2860,1,1,975.0,San Jose,95135,0,1,1
+223,"3730 Moorpark Ave,San Jose, CA 95117",2995,2,2,750.0,San Jose,95117,0,3,2
+224,"2557 Alvin Ave,San Jose, CA 95121",2100,1,1,605.0,San Jose,95121,0,2,2
+225,"2829 Glen Decker Ct,San Jose, CA 95148",5900,4,2.5,2946.0,San Jose,95148,0,3,2
+226,"5510 Makati Cir,SAN JOSE, CA 95123",629763,2,1,924.0,San Jose,95123,0,0,0
+227,"3990 Hamilton Ave,San Jose, CA 95130",2535,2,1,850.0,San Jose,95130,0,1,1
+228,"956 Dawnview Ct,San Jose, CA 95136",3850,3,2,1512.0,San Jose,95136,0,3,2
+229,"1060 S 3rd St #253,San Jose, CA 95112",2495,2,2,1100.0,San Jose,95112,0,3,3
+230,"1793 De Marietta Ave,San Jose, CA 95126",2595,2,2,992.0,San Jose,95126,0,2,0
+231,"4771 Hatfield Ww #4,San Jose, CA 95124",2350,2,1,768.0,San Jose,95124,0,2,2
+232,"2752 Kollmar Dr,San Jose, CA 95127",1695,1,1,605.0,San Jose,95127,0,0,0
+233,"737 River Park Dr,San Jose, CA 95111",4200,3,2,1908.0,San Jose,95111,0,3,2
+234,"1119 Littleoak Dr,San Jose, CA 95129",4950,4,2,1862.0,San Jose,95129,0,2,0
+235,"1183 Calle Ventura,San Jose, CA 95120",5195,4,2.5,2051.0,San Jose,95120,0,5,1
+236,"1199 Mirabeau Ln,San Jose, CA 95132",3595,3,2.5,1875.0,San Jose,95132,0,5,1
+237,"1112 Kelly Dr,San Jose, CA 95129",4545,4,2,1458.0,San Jose,95129,0,5,2
+238,"771 N 2nd St,San Jose, CA 95112",3600,3,2,2400.0,San Jose,95112,0,3,1
+239,"498 S 7th St,San Jose, CA 95112",1795,1,1,325.0,San Jose,95112,0,0,0
+240,"577 Giuffrida Ave,San Jose, CA 95123",2990,2,2,975.0,San Jose,95123,0,2,2
+241,"411 Park Ave #115,San Jose, CA 95110",2900,2,2,1100.0,San Jose,95110,0,2,1
+242,"975 S 1st St,San Jose, CA 95110",3195,2,2,1127.0,San Jose,95110,0,3,1
+243,"2415 Appley Way,San Jose, CA 95124",4500,3,3,1300.0,San Jose,95124,0,4,2
+244,"1077 Cross Springs Ct,San Jose, CA 95120",5995,4,3,3260.0,San Jose,95120,0,1,2
+245,"1448 Alderbrook Ln,San Jose, CA 95129",4595,3,2,1648.0,San Jose,95129,0,0,0
+246,"2630 Media Way,San Jose, CA 95125",4995,3,3,1584.0,San Jose,95125,0,0,1
+247,"1802 Schweppes Ct,San Jose, CA 95132",2995,2,1.5,988.0,San Jose,95132,0,2,0
+248,"7025 Queenswood Ct,San Jose, CA 95120",4345,3,2,1649.0,San Jose,95120,0,3,0
+249,"21717 Almaden Rd,San Jose, CA 95120",5750,4,3,2379.0,San Jose,95120,0,3,2
+250,"599 Calpella Dr,San Jose, CA 95136",4350,4,2.5,2300.0,San Jose,95136,0,4,2
+251,"558 Arleta Ave,San Jose, CA 95128",3850,2,1,1038.0,San Jose,95128,0,4,1
+252,"2575 Easton Way #86,San Jose, CA 95133",2650,2,2,975.0,San Jose,95133,0,3,1
+253,"3593 Meadowlands Ln,San Jose, CA 95135",7950,4,3,2970.0,San Jose,95135,0,2,2
+254,"1899 Kobuk Valley Cmn,San Jose, CA 95131",3695,3,2.5,1651.0,San Jose,95131,0,4,1
+255,"2409 Booksin Ave,San Jose, CA 95125",5200,4,2,1656.0,San Jose,95125,0,1,0
+256,"5291 Fell Ave,San Jose, CA 95136",3795,3,2,1486.0,San Jose,95136,0,3,0
+257,"5932 Tandera Ave,San Jose, CA 95123",3600,3,2,1100.0,San Jose,95123,0,2,0
+258,"4164 Will Rogers Dr,San Jose, CA 95117",3900,2,2,1200.0,San Jose,95117,0,3,0
+259,"4349 Hyland Ave,San Jose, CA 95127",4000,3,1.5,1500.0,San Jose,95127,0,3,1
+260,"1606 E San Fernando St,San Jose, CA 95116",4650,4,2.5,1504.0,San Jose,95116,0,3,0
+261,"93 W Reed St,San Jose, CA 95110",1825,1,1,506.0,San Jose,95110,0,0,0
+262,"1472 Cresthaven Ln,San Jose, CA 95118",4050,4,3,1725.0,San Jose,95118,0,3,0
+263,"463 N 5th St,San Jose, CA 95112",2195,2,1,700.0,San Jose,95112,0,1,0
+264,"2885 Garden Ave,San Jose, CA 95111",4300,4,2,1786.0,San Jose,95111,0,2,0
+265,"1390 Saddle Rack St #310,San Jose, CA 95126",3695,3,2,1407.0,San Jose,95126,0,5,3
+266,"7240 BARK Ln,San Jose, CA 95129",2363937,9,5,3377.0,San Jose,95129,0,0,0
+267,"2145 Randolph Dr,San Jose, CA 95128",1850,1,1,630.0,San Jose,95128,0,0,0
+268,"457 S 10th St,San Jose, CA 95112",1850,1,1,650.0,San Jose,95112,0,0,0
+269,"1034 W Julian St,San Jose, CA 95126",2495,1,1,544.0,San Jose,95126,0,0,0
+270,"157 Silcreek Dr,San Jose, CA 95116",3600,3,2,1441.0,San Jose,95116,0,2,1
+271,"6636 Kettle Ct,San Jose, CA 95120",3595,3,2.5,1451.0,San Jose,95120,0,4,1
+272,"686 Rebecca Way,San Jose, CA 95117",1900,1,1,650.0,San Jose,95117,0,0,0
+273,"386 N 8th St,San Jose, CA 95112",3700,3,2.5,1250.0,San Jose,95112,0,2,1
+274,"1719 HILLSDALE Ave,San Jose, CA 95124",1722371,4,3,2015.0,San Jose,95124,0,0,0
+275,"2418 Grandby Dr,San Jose, CA 95130",4195,3,2,1379.0,San Jose,95130,0,4,0
+276,"247 N Capitol Ave #224,San Jose, CA 95127",2695,2,2,955.0,San Jose,95127,0,1,0
+277,"18252 Swarthmore Dr,Saratoga, CA 95070",5000,3,2,1350.0,San Jose,95070,0,3,0
+278,"11050 Canyon Dr,San Jose, CA 95127",2315835,4,5,4493.0,San Jose,95127,0,0,0
+279,"1661 Briarcrest Ct,San Jose, CA 95131",3695,4,2.5,1681.0,San Jose,95131,0,2,1
+280,"971 Dana Ave,San Jose, CA 95126",4295,3,3,1883.0,San Jose,95126,0,3,0
+281,"1643 Maurice Ln,San Jose, CA 95129",2375,2,2,1000.0,San Jose,95129,0,1,1
+282,"225 Shadow Dance Dr,San Jose, CA 95110",2800,2,2,871.0,San Jose,95110,0,3,2
+283,"1155 Newhall St,San Jose, CA 95126",3200,2,1,1088.0,San Jose,95126,0,2,0
+284,"460 S 4th St,San Jose, CA 95112",1745,1,1,600.0,San Jose,95112,0,1,1
+285,"2651 Heritage Park Cir,San Jose, CA 95132",3595,2,2.5,1670.0,San Jose,95132,0,5,2
+286,"5018 Edenvale Ave,San Jose, CA 95136",4295,4,3.5,2507.0,San Jose,95136,0,2,1
+287,"45 N 8th St,SAN JOSE, CA 95112",0,2,12,4662.0,San Jose,95112,0,0,0
+288,"42 S 8th St,San Jose, CA 95112",1650,0,1,350.0,San Jose,95112,0,0,1
+289,"132 Sugar Maple Dr,San Jose, CA 95136",4495,5,2.5,2352.0,San Jose,95136,0,4,1
+290,"1576 Hillsdale Ave,San Jose, CA 95118",4150,4,2,1700.0,San Jose,95118,0,4,0
+291,"1588 BLOSSOM HILL Rd,San Jose, CA 95118",1647206,8,4,2980.0,San Jose,95118,0,0,0
+292,"5336 Monterey Hwy #21,San Jose, CA 95111",2750,2,2,950.0,San Jose,95111,0,3,1
+293,"4856 Vesca Way,San Jose, CA 95129",3400,3,2.5,1348.0,San Jose,95129,0,3,1
+294,"1766 Bethany Ave,San Jose, CA 95132",4995,5,3,2500.0,San Jose,95132,0,2,2
+295,"1397 Searcy Dr,San Jose, CA 95118",4950,5,2.5,1684.0,San Jose,95118,0,1,1
+296,"3901 Lick Mill Blvd #257,Santa Clara, CA 95054",3600,3,2,1426.0,San Jose,95054,0,3,3
+297,"945 Stonehurst Way Unit 2,Campbell, CA 95008",1244,1,1,150.0,San Jose,95008,0,4,0
+298,"3901 Lick Mill Blvd #217,Santa Clara, CA 95054",2750,1,1,900.0,San Jose,95054,0,0,2
+299,"661 N Capitol Ave,San Jose, CA 95133",3400,3,2.5,1669.0,San Jose,95133,0,4,2
+300,"801 S Winchester Blvd #6205,San Jose, CA 95128",2295,1,1,692.0,San Jose,95128,0,3,3
+301,"3835 Eastwood Cir,Santa Clara, CA 95054",4795,4,2,1565.0,San Jose,95054,0,4,2
+302,"2881 Meridian Ave #164,San Jose, CA 95124",3595,2,2,1678.0,San Jose,95124,0,5,1
+303,"88 Bush St #2110,San Jose, CA 95126",2900,1,1.5,841.0,San Jose,95126,0,4,2
+304,"809 Auzerais Ave #135,San Jose, CA 95126",3350,3,2,1433.0,San Jose,95126,0,3,1
+305,"2198 Ceynowa Ln,San Jose, CA 95121",4950,4,2.5,1869.0,San Jose,95121,0,12,0
+306,"38 N Almaden Blvd #1116,San Jose, CA 95110",2900,1,1,953.0,San Jose,95110,0,4,4
+307,"809 Auzerais Ave #448,San Jose, CA 95126",2850,2,2,1229.0,San Jose,95126,0,2,1
+308,"827 Gaspar Vis,San Jose, CA 95126",3395,2,2.5,1335.0,San Jose,95126,0,1,1
+309,"1849 Potrero Dr,San Jose, CA 95124",3150,2,1,900.0,San Jose,95124,0,3,1
+310,"4612 Cosmo Pl,San Jose, CA 95118",1395,1,0,140.0,San Jose,95118,0,0,0
+311,"301 Rayos del Sol Dr,San Jose, CA 95116",2500,2,1,650.0,San Jose,95116,0,6,2
+312,"801 Font Ter,San Jose, CA 95126",3850,2,2.5,1727.0,San Jose,95126,0,2,2
+313,"1780 Welch Ave,San Jose, CA 95112",2700,2,1,500.0,San Jose,95112,0,1,0
+314,"907 Gaspar Vis,San Jose, CA 95126",3650,2,2.5,1727.0,San Jose,95126,0,1,1
+315,"1050 Vanilla Walkway,San Jose, CA 95133",3795,3,3.5,1697.0,San Jose,95133,0,2,0
+316,"1441 Essex Way,San Jose, CA 95117",3095,2,2,900.0,San Jose,95117,0,3,0
+317,"36 S 10th St,San Jose, CA 95112",1595,0,1,300.0,San Jose,95112,0,0,0
+318,"411 Park Ave #217,San Jose, CA 95110",2700,1,1,876.0,San Jose,95110,0,2,1
+319,"59 W Virginia St,San Jose, CA 95110",1950,1,1,800.0,San Jose,95110,0,1,0
+320,"1553 Tainan Dr,San Jose, CA 95131",3495,3,2.5,1719.0,San Jose,95131,0,5,1
+321,"297 Tradewinds Dr #203,San Jose, CA 95123",2925,3,2,1466.0,San Jose,95123,0,2,3
+322,"1208 Mountain Quail Cir,San Jose, CA 95120",4975,3,2.5,2450.0,San Jose,95120,0,2,2
+323,"326 N 19th St,San Jose, CA 95112",3095,3,1,1100.0,San Jose,95112,0,1,0
+324,"1326 De Loach Ct,San Jose, CA 95125",3750,2,2.5,1224.0,San Jose,95125,0,3,0
+325,"700 Race St,San Jose, CA 95126",2095,1,1,600.0,San Jose,95126,0,2,1
+326,"877 Cherry Creek Cir,San Jose, CA 95126",2850,2,2,1100.0,San Jose,95126,0,4,0
+327,"415 N 2nd St #340,San Jose, CA 95112",3295,2,2,1071.0,San Jose,95112,0,1,0
+328,"215 Oak St,San Jose, CA 95110",1800,1,1,627.0,San Jose,95110,0,1,1
+329,"560 Menker Ave,San Jose, CA 95128",2645,2,1.5,1085.0,San Jose,95128,0,2,0
+330,"Orchard Park Apartments5635 Blossom Gardens Cir,San Jose, CA 95123",2225,2,2,776.0,San Jose,95123,1,10,7
+331,"33 Wistaria Way,Santa Clara, CA 95050",3350,2,1,800.0,San Jose,95050,0,4,1
+332,"3514 Ramstad Dr,San Jose, CA 95127",3700,3,2,2000.0,San Jose,95127,0,2,1
+333,"349 Richmond Ave,San Jose, CA 95128",1895,1,1,600.0,San Jose,95128,0,0,0
+334,"108 Glen Eyrie Ave,San Jose, CA 95125",3500,2,1,1100.0,San Jose,95125,0,5,1
+335,"297 Watson Dr #3,Campbell, CA 95008",2795,2,1,903.0,San Jose,95008,0,1,2
+336,"875 Leigh Ave,San Jose, CA 95128",2250,2,1,770.0,San Jose,95128,0,0,0
+337,"1779 Fallen Leaf Dr,Milpitas, CA 95035",3600,3,2,1215.0,San Jose,95035,0,3,0
+338,"20420 Atrium Dr,Saratoga, CA 95070",4700,4,3,2010.0,San Jose,95070,0,2,1
+339,"550 Kiely Blvd,San Jose, CA 95117",2495,1,1,900.0,San Jose,95117,0,3,2
+340,"3114 Humberside Ct,San Jose, CA 95148",3795,3,2.5,1544.0,San Jose,95148,0,3,1
+341,"445 Kuehnis Dr,Campbell, CA 95008",2595,2,1,700.0,San Jose,95008,0,0,0
+342,"803 Pescadero Dr,San Jose, CA 95123",1380834,4,3,1893.0,San Jose,95123,0,0,0
+343,"2736 Cannara Ln #1,San Jose, CA 95111",994216,3,4,1452.0,San Jose,95111,0,0,0
+344,"1699 S Blaney Ave,San Jose, CA 95129",3954,3,2,1398.0,San Jose,95129,0,0,0
+345,"6916 Chantel Ct,San Jose, CA 95129",2250,1,1,600.0,San Jose,95129,0,3,2
+346,"Latitude 371277 Babb Ct,San Jose, CA 95125",2575,2,2,930.0,San Jose,95125,1,13,7
+347,"18881 Arata Way,Cupertino, CA 95014",7100,6,5,3225.0,San Jose,95014,0,1,0
+348,"1891 Geneva St,San Jose, CA 95124",4000,3,2,1260.0,San Jose,95124,0,4,0
+349,"610 S 2nd St,San Jose, CA 95112",4500,4,2,1450.0,San Jose,95112,0,4,0
+350,"2988 Castleton Dr,San Jose, CA 95148",4100,4,2,1463.0,San Jose,95148,0,4,0
+351,"2087 Cranworth Cir,San Jose, CA 95121",4500,5,2,1798.0,San Jose,95121,0,1,1
+352,"1048 Coriander Walkway,San Jose, CA 95133",3695,3,3.5,1587.0,San Jose,95133,0,4,1
+353,"4935 Palacewood Ct,San Jose, CA 95129",3995,3,2,1323.0,San Jose,95129,0,4,0
+354,"357 S 4th St,San Jose, CA 95112",1595,0,1,420.0,San Jose,95112,0,0,0
+355,"35 Wistaria Way,Santa Clara, CA 95050",3350,2,1,800.0,San Jose,95050,0,4,1
+356,"362 S 12th St,San Jose, CA 95112",3200,2,2,1392.0,San Jose,95112,0,1,1
+357,"555 S 13th St,San Jose, CA 95112",7995,5,3.5,3770.0,San Jose,95112,0,0,0
+358,"594 S 6th St,San Jose, CA 95112",2385,1,1,808.0,San Jose,95112,0,1,1
+359,"1979 Park Ave,San Jose, CA 95126",2325,2,1,1000.0,San Jose,95126,0,0,0
+360,"5 Scharff Ave,San Jose, CA 95116",3400,3,2,1384.0,San Jose,95116,0,1,2
+361,"930 Alexis Ct,San Jose, CA 95116",2900,2,1,660.0,San Jose,95116,0,3,1
+362,"80 Rancho Dr Unit A,San Jose, CA 95111",2595,2,1,822.0,San Jose,95111,0,3,1
+363,"811 Debut Ct,San Jose, CA 95134",3200,2,2,925.0,San Jose,95134,0,2,0
+364,"5255 Camden Ave,San Jose, CA 95124",2195,1,1,720.0,San Jose,95124,0,2,1
+365,"5771 Chambertin Dr,San Jose, CA 95118",5500,3,2.5,1874.0,San Jose,95118,2,5,1
+366,"420 Union Ave Unit 10,Campbell, CA 95008",2350,1,1,704.0,San Jose,95008,0,7,2
+367,"800 N 8th St #316,San Jose, CA 95112",3800,2,2,1575.0,San Jose,95112,0,1,0
+368,"1364 Pine Ave Unit Studio/Cottage,San Jose, CA 95125",1975,1,1,400.0,San Jose,95125,0,0,0
+369,"454 S 7th St Unit 2,San Jose, CA 95112",2000,1,1,550.0,San Jose,95112,0,0,0
+370,"5687 Morningside Dr,San Jose, CA 95138",6200,4,3,2833.0,San Jose,95138,0,2,0
+371,"485 Boynton Ave,San Jose, CA 95117",3675,2,2.5,1595.0,San Jose,95117,0,3,0
+372,"130 Roundtable Dr Unit L1,San Jose, CA 95111",1900,1,1,700.0,San Jose,95111,0,0,1
+373,"3184 Cadillac Dr Unit 4,San Jose, CA 95117",2700,2,1,755.0,San Jose,95117,0,0,0
+374,"1592 Foxworthy Ave,San Jose, CA 95118",3650,3,1,1071.0,San Jose,95118,0,6,0
+375,"2991 Neet Ave Unit 2,San Jose, CA 95128",2170,1,1,675.0,San Jose,95128,0,2,2
+376,"266 Muirfield Dr,San Jose, CA 95116",2500,2,1,802.0,San Jose,95116,0,1,0
+377,"420 Union Ave Unit 14,Campbell, CA 95008",2900,2,2,968.0,San Jose,95008,0,7,2
+378,"395 Bellerose Dr Unit 4,San Jose, CA 95128",2550,2,2,940.0,San Jose,95128,0,3,1
+379,"76 N 7th St,San Jose, CA 95112",2175,1,1,741.0,San Jose,95112,0,1,2
+380,"928 Desert Isle Dr,San Jose, CA 95117",3195,2,1,900.0,San Jose,95117,0,1,0
+381,"650 Almaden Walk Loop Unit 1,San Jose, CA 95125",4350,3,3,1425.0,San Jose,95125,0,4,2
+382,"2005 Cirone Way,San Jose, CA 95124",3425,2,1,808.0,San Jose,95124,0,0,1
+383,"488 Baltimore Pl Unit 488,San Jose, CA 95123",3500,3,4,1810.0,San Jose,95123,0,0,1
+384,"Blossom Oaks Apartments229 Blossom Hill Rd,San Jose, CA 95123",2030,2,1,675.5,San Jose,95123,0,10,2
+385,"5046 Broken Arrow Dr Unit 5046,San Jose, CA 95136",3250,2,2.5,1360.0,San Jose,95136,0,3,1
+386,"5793 Rachel Ct Unit A,San Jose, CA 95123",2995,2,1,1180.0,San Jose,95123,0,4,0
+387,"80 Descanso Dr Unit 1,San Jose, CA 95134",2915,1,1,773.0,San Jose,95134,0,7,3
+388,"55 S 6th St,San Jose, CA 95112",2175,1,1,1000.0,San Jose,95112,0,0,0
+389,"217 William Manly St #5,San Jose, CA 95136",4400,3,3,1813.0,San Jose,95136,0,1,0
+390,"Austin Commons50 Austin Ave,Hayward, CA 94544",2200,2,2,850.0,Hayward,94544,2,9,9
+391,"Mission Heights94544 3.5 Mission Blvd,Hayward, CA 94544",2125,2,1,861.0,Hayward,94544,0,13,11
+392,"Crestview Terrace837 Hancock St,Hayward, CA 94544",2185,3,2,987.5,Hayward,94544,0,16,12
+393,"The Dutton25800 Industrial Blvd,Hayward, CA 94545",2190,2,2,820.0,Hayward,94545,1,12,23
+394,"Park Orchard605 Orchard Ave,Hayward, CA 94544",2365,2,1,808.5,Hayward,94544,1,7,9
+395,"The Cedars22302 Center St,Castro Valley, CA 94546",2112,1,1,661.0,Hayward,94546,1,1,6
+396,"1146 Via Los Trancos,San Lorenzo, CA 94580",1650,1,1,360.0,Hayward,94580,0,3,0
+397,"26958 Aberdeen Pl,Hayward, CA 94542",4500,3,2,1802.0,Hayward,94542,0,0,0
+398,"26223 Gamboa St,Hayward, CA 94544",2250,2,1,850.0,Hayward,94544,0,2,1
+399,"28173 Riggs Ct,Hayward, CA 94542",4425,4,2.5,2168.0,Hayward,94542,0,3,0
+400,"29536 Dixon St,Hayward, CA 94544",1950,1,1,750.0,Hayward,94544,0,2,0
+401,"482 Sunset Blvd,Hayward, CA 94541",2595,2,1,950.0,Hayward,94541,0,4,0
+402,"21174 Locust St,Hayward, CA 94541",3400,3,1,950.0,Hayward,94541,0,0,0
+403,"Jackson Flats24900 Santa Clara St,Hayward, CA 94544",1900,2,1,800.0,Hayward,94544,0,10,6
+404,"Summerwood21701 Foothill Blvd,Hayward, CA 94541",2099,2,2,751.0,Hayward,94541,0,11,15
+405,"Mattox Apartments1282 Mattox Rd,Hayward, CA 94541",2050,2,1,697.5,Hayward,94541,2,11,11
+406,"320 Bridgecreek Way,Hayward, CA 94544",4350,4,3,2286.0,Hayward,94544,0,1,0
+407,"25401 Cypress Ave,Hayward, CA 94544",0,54,36,23640.0,Hayward,94544,0,0,0
+408,"355 Lansing Way,Hayward, CA 94541",1795,1,1,650.0,Hayward,94541,0,1,0
+409,"575 Berry Ave,Hayward, CA 94544",2195,2,1,889.0,Hayward,94544,0,0,1
+410,"26540 Chisholm Ct,Hayward, CA 94544",2250,2,1.5,1140.0,Hayward,94544,0,0,0
+411,"1201 B St,Hayward, CA 94541",1895,0,1,545.0,Hayward,94541,0,1,1
+412,"2731 Hawthorne Ct,Hayward, CA 94545",1200,0,1,238.0,Hayward,94545,0,0,0
+413,"671 Paradise Blvd,Hayward, CA 94541",2875,3,1,1020.0,Hayward,94541,0,2,1
+414,"22635 Myrtle Cir,Hayward, CA 94541",4000,4,2.5,1607.0,Hayward,94541,0,2,0
+415,"1315 A St #304,Hayward, CA 94541",2500,2,1.5,950.0,Hayward,94541,0,0,1
+416,"576 Smalley Ave,Hayward, CA 94541",2650,3,2,950.0,Hayward,94541,0,3,0
+417,"22555 Linden St,Hayward, CA 94541",1850,1,1,600.0,Hayward,94541,0,0,0
+418,"2490 Cryer St,Hayward, CA 94545",3095,3,2,1148.0,Hayward,94545,0,2,0
+419,"1775 Panda Way #345,Hayward, CA 94541",485067,2,2,898.0,Hayward,94541,0,0,0
+420,"26937 Hayward Blvd,Hayward, CA 94542",3700,3,2,1713.0,Hayward,94542,0,5,2
+421,"320 Harris Rd,Hayward, CA 94544",2150,1,1,470.0,Hayward,94544,0,0,1
+422,"21239 Gary Dr Apt 217,Hayward, CA 94546",2900,2,2,1025.0,Hayward,94546,0,3,1
+423,"1110 Red Wing Dr,Hayward, CA 94541",3790,4,2.5,1549.0,Hayward,94541,0,2,0
+424,"520 Staley Ave,Hayward, CA 94541",3400,3,3.5,1999.0,Hayward,94541,0,2,0
+425,"59 Regency Pl,Hayward, CA 94544",3995,4,3.5,2045.0,Hayward,94544,0,3,1
+426,"382 Harris Rd,Hayward, CA 94544",2195,1,1,453.0,Hayward,94544,0,0,1
+427,"29360 Dixon St,Hayward, CA 94544",2195,1,1,626.0,Hayward,94544,0,2,2
+428,"27942 Manon Ave Unit C,Hayward, CA 94544",2600,2,1,748.0,Hayward,94544,0,0,0
+429,"244 Mediterranean Ave,Hayward, CA 94544",3595,3,2,1156.0,Hayward,94544,0,1,2
+430,"25091 Copa del Oro Dr #203,Hayward, CA 94545",2750,3,2,985.0,Hayward,94545,0,4,2
+431,"29371 Dixon St,Hayward, CA 94544",0,126,45,35932.0,Hayward,94544,0,0,0
+432,"The Huntley29200 Huntwood Ave,Hayward, CA 94544",2149,2,2,775.5,Hayward,94544,0,7,4
+433,"321 Arrowhead Way,Hayward, CA 94544",1554574,5,3,2647.0,Hayward,94544,0,0,0
+434,"27942 Manon Ave Unit A,Hayward, CA 94544",2800,2,1,748.0,Hayward,94544,0,0,0
+435,"32324 Utica St,Hayward, CA 94544",3900,4,2,1200.0,Hayward,94544,0,4,0
+436,"2525 Grove Way,Hayward, CA 94546",2295,2,1,950.0,Hayward,94546,0,1,0
+437,"22117 Main St,Hayward, CA 94541",2150,2,1,780.0,Hayward,94541,0,1,1
+438,"23841 Clayton St,Hayward, CA 94541",3500,4,2,1500.0,Hayward,94541,0,1,0
+439,"19721 Medford Cir,Hayward, CA 94541",2600,2,2.5,1125.0,Hayward,94541,0,3,0
+440,"21400 Mission Blvd,Hayward, CA 94541",1695,1,1,665.0,Hayward,94541,0,5,0
+441,"23910 2nd St,Hayward, CA 94541",2070,1,1,689.0,Hayward,94541,0,3,2
+442,"1627 D St Unit 6,Hayward, CA 94541",1738,1,1,550.0,Hayward,94541,0,0,1
+443,"2094 Aldengate Way,Hayward, CA 94545",3250,3,2,1250.0,Hayward,94545,0,2,0
+444,"1325 D St,Hayward, CA 94541",2750,3,2,750.0,Hayward,94541,0,3,0
+445,"733 Delve Ct,Hayward, CA 94544",2500,1,1,430.0,Hayward,94544,0,4,0
+446,"88 Middleton Pl,Hayward, CA 94544",3700,3,2.5,1891.0,Hayward,94544,0,0,1
+447,"553 Dean St,Hayward, CA 94541",2795,3,1.5,1000.0,Hayward,94541,0,1,0
+448,"22236 Main St,Hayward, CA 94541",2350,2,2,950.0,Hayward,94541,0,2,0
+449,"The Union Flats34588 11th St,Union City, CA 94587",2300,2,2,788.0,Union City,94587,1,10,5
+450,"Avalon Union City24 Union Sq,Union City, CA 94587",2310,3,2,1068.0,Union City,94587,2,11,7
+451,"Furnished Studio - Union City - Dyer St.31950 Dyer St,Union City, CA 94587",2990,0,1,300.0,Union City,94587,0,11,13
+452,"34655 Skylark Dr,Union City, CA 94587",2094,3,2,886.0,Union City,94587,1,10,8
+453,"Mission Sierra34864 Mission Blvd,Union City, CA 94587",2425,2,2,755.0,Union City,94587,1,10,15
+454,"35523 Dee Pl,Fremont, CA 94536",3999,3,2,1853.0,Union City,94536,0,10,0
+455,"Parkside1501 Decoto Rd,Union City, CA 94587",1856,2,2,630.0,Union City,94587,1,9,8
+456,"2154 Skylark Ct #4,Union City, CA 94587",2490,2,1,798.0,Union City,94587,0,0,3
+457,"1129 Platinum St,Union City, CA 94587",6200,5,3,3655.0,Union City,94587,0,2,0
+458,"33534 4th St,Union City, CA 94587",2790,2,1,800.0,Union City,94587,0,1,0
+459,"33022 Palmetto Dr,Union City, CA 94587",3490,3,2,1154.0,Union City,94587,0,2,1
+460,"32417 Pacific Grove Way,Union City, CA 94587",1812720,4,3,2236.0,Union City,94587,0,0,0
+461,"1364 I St,Union City, CA 94587",2995,2,1,750.0,Union City,94587,0,1,1
+462,"34265 Myrtle Ln,Union City, CA 94587",3600,4,3,2114.0,Union City,94587,0,4,1
+463,"22300 Almaden Blvd,Union City, CA 94587",1700,1,1,1080.0,Union City,94587,0,0,0
+464,"32215 Samantha Ct,Union City, CA 94587",3795,4,2.5,1683.0,Union City,94587,0,3,1
+465,"93 King Ave,Fremont, CA 94536",4600,3,2.5,2132.0,Union City,94536,0,5,1
+466,"2555 Copa Del Oro Dr,Union City, CA 94587",2800,2,2,908.0,Union City,94587,0,6,0
+467,"35580 Monterra Ter,Union City, CA 94587",2900,2,2,1018.0,Union City,94587,0,5,2
+468,"32324 Utica St,Hayward, CA 94544",3900,4,2,1200.0,Union City,94544,0,4,0
+469,"1894 Flagstone Dr,Union City, CA 94587",1537620,4,3,1859.0,Union City,94587,0,0,0
+470,"Woodside235 Haas Ave,San Leandro, CA 94577",2225,2,2,736.5,San Leandro,94577,0,15,12
+471,"Woodchase2795 San Leandro Blvd,San Leandro, CA 94578",1985,2,1,663.5,San Leandro,94578,1,12,13
+472,"Oakland Station Senior Apartments 62+ Income Restrictions May Apply1428 105th Ave,Oakland, CA 94603",1225,2,1,680.0,San Leandro,94603,1,4,4
+473,"1452 162nd Ave,San Leandro, CA 94578",2625,2,1.5,950.0,San Leandro,94578,0,0,3
+474,"591 Oakes Blvd,San Leandro, CA 94577",3850,3,1.5,1650.0,San Leandro,94577,0,6,0
+475,"15956 E 14th St,San Leandro, CA 94578",2600,2,2,918.0,San Leandro,94578,0,9,1
+476,"1780 Eveleth Ave,San Leandro, CA 94577",1590,0,1,380.0,San Leandro,94577,0,6,1
+477,"150 Haas Ave,San Leandro, CA 94577",1725,1,1,640.0,San Leandro,94577,0,1,1
+478,"San Leandro Racquet Club2600 San Leandro Blvd,San Leandro, CA 94578",1940,2,2,800.0,San Leandro,94578,1,17,13
+479,"The Heights Apartments2288 Miramar Ave,San Leandro, CA 94578",2095,2,2,750.0,San Leandro,94578,1,13,6
+480,"Metro Park13495 Bancroft Ave,San Leandro, CA 94578",1995,1,1,670.0,San Leandro,94578,0,12,12
+481,"1600 162nd Ave,San Leandro, CA 94578",1850,1,1,675.0,San Leandro,94578,0,1,0
+482,"Gateway San Leandro902 Davis St,San Leandro, CA 94577",2235,2,2,756.0,San Leandro,94577,1,7,9
+483,"15637 Usher St,San Lorenzo, CA 94580",1850,2,1,800.0,San Leandro,94580,0,1,0
+484,"14433 Bancroft Ave,San Leandro, CA 94578",2095,1,1,640.0,San Leandro,94578,0,2,1
+485,"15248 Upton Ave,San Leandro, CA 94578",2699,2,1,880.0,San Leandro,94578,0,1,1
+486,"1555 164th Ave,San Leandro, CA 94578",1795,1,1,462.0,San Leandro,94578,0,0,0
+487,"11056 San Leandro St,Oakland, CA 94603",1500,0,1,350.0,San Leandro,94603,0,0,0
+488,"1300 Benedict Dr,San Leandro, CA 94577",3500,3,2,1000.0,San Leandro,94577,2,2,0
+489,"2170 Strang Ave,San Leandro, CA 94578",3400,3,1,1050.0,San Leandro,94578,0,3,1
+490,"15295 Upton Ave,San Leandro, CA 94578",2195,2,1,880.0,San Leandro,94578,0,1,0
+491,"1500 162nd Ave,San Leandro, CA 94578",2195,1,1,535.0,San Leandro,94578,0,1,0
+492,"1570 164th Ave,San Leandro, CA 94578",1895,1,1,500.0,San Leandro,94578,0,0,0
+493,"15851 Mateo St,San Leandro, CA 94578",2100,2,1,658.0,San Leandro,94578,0,0,0
+494,"14400 E 14th St,San Leandro, CA 94578",1995,1,1,650.0,San Leandro,94578,0,3,2
+495,"98 Dutton Ave,San Leandro, CA 94577",1750,1,1,550.0,San Leandro,94577,0,0,0
+496,"1706 163rd Ave,San Leandro, CA 94578",2700,3,2,1150.0,San Leandro,94578,0,0,0
+497,"15956 E 14th St #314,San Leandro, CA 94578",2600,2,2,918.0,San Leandro,94578,0,1,1
+498,"1493 166th Ave,San Leandro, CA 94578",3100,3,1,1100.0,San Leandro,94578,0,1,0
+499,"1496 167th Ave,San Leandro, CA 94578",2050,1,1,850.0,San Leandro,94578,0,2,0
+500,"14822 E 14th St Unit 1-40,San Leandro, CA 94578",2400,2,2,975.0,San Leandro,94578,0,1,0
+501,"11140 Robledo Dr,Oakland, CA 94603",3607,3,1,1086.0,San Leandro,94603,0,0,0
+502,"355 Estabrook St,San Leandro, CA 94577",1895,1,1,700.0,San Leandro,94577,0,3,2
+503,"1483 150th Ave,San Leandro, CA 94578",2145,1,1,675.0,San Leandro,94578,0,3,1
+504,"1400 Carpentier St #122,San Leandro, CA 94577",2100,1,1,831.0,San Leandro,94577,0,1,0
+505,"59 Dorchester Ave,San Leandro, CA 94577",2100,2,1,850.0,San Leandro,94577,0,1,1
+506,"1400 Carpentier St #408,San Leandro, CA 94577",2475,2,2,1200.0,San Leandro,94577,0,1,1
+507,"540 Callan Ave,San Leandro, CA 94577",1775,1,1,600.0,San Leandro,94577,0,0,1
+508,"184 Callan Ave,San Leandro, CA 94577",1775,1,1,600.0,San Leandro,94577,0,1,1
+509,"15526 Oceanside Way,San Leandro, CA 94579",4200,4,2.5,2139.0,San Leandro,94579,0,6,0
+510,"16248 Saratoga St Unit 1,San Leandro, CA 94578",2650,2,2,1100.0,San Leandro,94578,0,4,1
+511,"767 Fargo Ave,San Leandro, CA 94579",1695,0,1,525.0,San Leandro,94579,0,0,0
+512,"10815 Julius St Unit 2,Oakland, CA 94605",2300,2,1,887.0,San Leandro,94605,0,1,1
+513,"15532 Wagner St Unit A,San Lorenzo, CA 94580",1999,1,1,600.0,San Leandro,94580,0,0,1
+514,"2727 Marina Blvd,San Leandro, CA 94577",1995,1,1,740.0,San Leandro,94577,0,0,0
+515,"1680 165th Ave,San Leandro, CA 94578",2195,2,2,1127.0,San Leandro,94578,0,0,1
+516,"1206 105th Ave,Oakland, CA 94603",2650,2,1,900.0,San Leandro,94603,0,6,0
+517,"230 Lorraine Blvd,San Leandro, CA 94577",3200,2,2,1487.0,San Leandro,94577,0,0,0
+518,"1200 Lakeshore Apartments1200 Lakeshore Ave,Oakland, CA 94606",2880,2,2.5,1137.5,Oakland,94606,1,12,16
+519,"Domain Oakland1389 Jefferson St,Oakland, CA 94612",1910,3,3,1152.0,Oakland,94612,1,5,4
+520,"Furnished Studio - Oakland - Alameda Airport1260 S Loop Rd,Alameda, CA 94502",2550,0,1,300.0,Oakland,94502,0,12,10
+521,"1456 1st Ave,Oakland, CA 94606",1795,1,1,650.0,Oakland,94606,0,4,0
+522,"VESPR312 24th St,Oakland, CA 94612",2229,3,3,1067.0,Oakland,94612,1,13,13
+523,"Forma2016 Telegraph Ave,Oakland, CA 94612",1927,2,2,707.5,Oakland,94612,3,16,9
+524,"68 Wildwood Ave,Piedmont, CA 94610",5300,3,2,1425.0,Oakland,94610,0,3,0
+525,"2917 MacArthur Blvd Unit 3J,Oakland, CA 94602",2050,1,1.5,696.0,Oakland,94602,0,1,0
+526,"4214 Carrington St #4212,Oakland, CA 94601",2480,1,1,650.0,Oakland,94601,0,3,2
+527,"708 Zephyr Dr,Oakland, CA 94607",3300,2,2.5,1203.0,Oakland,94607,0,0,0
+528,"187 Montecito Ave #303,Oakland, CA 94610",1795,1,1,550.0,Oakland,94610,0,3,1
+529,"1428 Madison St #103,Oakland, CA 94612",2100,1,1,554.0,Oakland,94612,0,1,0
+530,"811 York St #304,Oakland, CA 94610",2195,1,1,621.0,Oakland,94610,0,0,0
+531,"Oakland Station Senior Apartments 62+ Income Restrictions May Apply1428 105th Ave,Oakland, CA 94603",1225,2,1,680.0,Oakland,94603,1,4,4
+532,"Lydian238 13th St,Oakland, CA 94612",1861,3,2,987.5,Oakland,94612,3,18,22
+533,"Furnished Studio - Oakland - Emeryville3650 Mandela Pkwy,Emeryville, CA 94608",2100,0,1,300.0,Oakland,94608,0,15,10
+534,"2336 92nd Ave Unit 2336,Oakland, CA 94603",2100,2,1,900.0,Oakland,94603,0,3,0
+535,"3951 Malcolm Ave,Oakland, CA 94605",2800,1,1.5,750.0,Oakland,94605,0,6,0
+536,"3276 West St,Oakland, CA 94608",3295,4,1.5,1700.0,Oakland,94608,0,5,0
+537,"2800 Nicol Ave,Oakland, CA 94602",2100,1,1,580.0,Oakland,94602,0,0,0
+538,"4207 Gregory St,Oakland, CA 94619",6000,5,2,2169.0,Oakland,94619,0,7,0
+539,"3066 Dakota St,Oakland, CA 94602",3695,3,1,1275.0,Oakland,94602,0,7,0
+540,"1139 66th St,Oakland, CA 94608",4780,3,3,1600.0,Oakland,94608,0,11,0
+541,"1007 41st St,Oakland, CA 94608",3800,1,1,900.0,Oakland,94608,0,5,0
+542,"655 10th St,Oakland, CA 94607",2395,2,1,700.0,Oakland,94607,0,4,0
+543,"6525 Buena Ventura Ave,Oakland, CA 94605",4500,3,2.5,2036.0,Oakland,94605,0,12,0
+544,"635 Spruce St,Oakland, CA 94610",5445,4,2.5,2127.0,Oakland,94610,0,3,0
+545,"1560 Jackson St Apt 29,Oakland, CA 94612",1965,1,1,560.0,Oakland,94612,0,0,0
+546,"1560 Jackson St Apt 14,Oakland, CA 94612",1965,1,1,560.0,Oakland,94612,0,0,0
+547,"540 Alcatraz Ave,Oakland, CA 94609",1995,0,1,725.0,Oakland,94609,0,1,1
+548,"240 Athol Ave Apt 201,Oakland, CA 94606",2195,1,1,680.0,Oakland,94606,0,1,0
+549,"2530 76th Ave,Oakland, CA 94605",2295,2,1,760.0,Oakland,94605,0,1,0
+550,"3884 Whittle Ave,Oakland, CA 94602",4250,2,1,905.0,Oakland,94602,0,1,0
+551,"1560 Jackson St Apt 16,Oakland, CA 94612",1999,1,1,606.0,Oakland,94612,0,0,0
+552,"229 Athol Ave,Oakland, CA 94606",1995,1,1,700.0,Oakland,94606,0,3,0
+553,"2515 64th Ave,Oakland, CA 94605",2795,2,1,972.0,Oakland,94605,0,2,0
+554,"1511 Jefferson St Ph 1,Oakland, CA 94612",2995,2,2.5,1176.0,Oakland,94612,0,6,0
+555,"637 18th St,Oakland, CA 94612",2675,3,1,1000.0,Oakland,94612,0,2,0
+556,"7445 Weld St Unit B,Oakland, CA 94621",3000,3,2,1337.0,Oakland,94621,0,2,0
+557,"2833 Foothill Blvd,Oakland, CA 94601",1195,0,1,296.0,Oakland,94601,0,2,1
+558,"1426 Pullman Way,Oakland, CA 94607",3700,2,2,1495.0,Oakland,94607,0,1,0
+559,"840 York St Apt 14,Oakland, CA 94610",2295,1,1,834.0,Oakland,94610,0,1,0
+560,"1560 Jackson St Apt 1,Oakland, CA 94612",1970,1,1,560.0,Oakland,94612,0,0,0
+561,"980 36th St Unit 2,Oakland, CA 94608",2050,2,1,650.0,Oakland,94608,0,0,0
+562,"200 Caldecott Ln #212,Oakland, CA 94618",3175,2,2,1095.0,Oakland,94618,0,3,0
+563,"330 Adams St,Oakland, CA 94610",2150,1,1,747.0,Oakland,94610,0,2,0
+564,"959 55th St,Oakland, CA 94608",4195,2,1,1157.0,Oakland,94608,0,3,2
+565,"3106 Chapman St,Oakland, CA 94601",3000,3,2,1100.0,Oakland,94601,0,3,0
+566,"41st Ave,Oakland, CA 94601",2950,3,2,1400.0,Oakland,94601,0,5,0
+567,"9046 Hillside St,Oakland, CA 94603",2499,2,1,850.0,Oakland,94603,0,1,1
+568,"2046 81st Ave,Oakland, CA 94621",2100,2,1,754.0,Oakland,94621,0,1,0
+569,"840 York St Unit 16,Oakland, CA 94610",2295,1,1,772.0,Oakland,94610,0,0,0
+570,"1768 Auseon Ave,Oakland, CA 94621",3525,4,1,1474.0,Oakland,94621,0,1,0
+571,"3757 39th Ave Apt 3,Oakland, CA 94619",2425,2,1,895.0,Oakland,94619,0,1,0
+572,"4600 Mattis Ct,Oakland, CA 94619",4975,4,3,1503.0,Oakland,94619,0,4,0
+573,"1717 Webster St,Oakland, CA 94612",2073,2,2,881.0,Oakland,94612,1,15,19
+574,"The Chase Apartment Homes1720 12th Ave,Oakland, CA 94606",1665,1,1,612.5,Oakland,94606,2,10,8
+575,"2833 High St,Oakland, CA 94619",2100,1,1,600.0,Oakland,94619,0,1,0
+576,"11140 Robledo Dr,Oakland, CA 94603",3607,3,1,1086.0,Oakland,94603,0,0,0
+577,"450 Merritt Ave,Oakland, CA 94610",2795,2,2,1500.0,Oakland,94610,0,2,1
+578,"7045 Pinehaven Rd,Oakland, CA 94611",5995,4,3,2750.0,Oakland,94611,0,5,0
+579,"1701 41st Ave,Oakland, CA 94601",1795,1,1,700.0,Oakland,94601,0,0,0
+580,"4500 San Carlos Ave,Oakland, CA 94601",503842,3,2,1324.0,Oakland,94601,0,0,0
+581,"1677 16th St,Oakland, CA 94607",3199,3,1.5,1300.0,Oakland,94607,0,0,1
+582,"6625 Bancroft Ave,Oakland, CA 94605",1645,2,1,734.0,Oakland,94605,0,0,1
+583,"1759 Seminary Ave,Oakland, CA 94621",1895,1,1,640.0,Oakland,94621,0,0,1
+584,"498 25th St,Oakland, CA 94612",0,24,28,1600.0,Oakland,94612,0,0,0
+585,"2695 75th Ave,Oakland, CA 94605",3250,3,1,1068.0,Oakland,94605,0,1,0
+586,"6600 Bancroft Ave,Oakland, CA 94605",1650,1,1,480.0,Oakland,94605,0,0,0
+587,"7637 Ney Ave,Oakland, CA 94605",2800,3,1,1043.0,Oakland,94605,0,3,1
+588,"2105 88th Ave,Oakland, CA 94621",2500,2,1,700.0,Oakland,94621,0,2,0
+589,"1907 70th Ave,Oakland, CA 94621",2295,2,1,768.0,Oakland,94621,0,3,1
+590,"2609 Ivy Dr,Oakland, CA 94606",1850,1,1,720.0,Oakland,94606,0,0,0
+591,"8081 GREENRIDGE Dr,Oakland, CA 94605-3703",1198030,7,4,3024.0,Oakland,-3703,0,0,0
+592,"1906 Jackson St,Oakland, CA 94612",2875,1,1,700.0,Oakland,94612,0,4,2
+593,"2316 96th Ave,Oakland, CA 94603",1700,1,1,525.0,Oakland,94603,0,0,0
+594,"96 Anair Way,Oakland, CA 94605",2750,2,1.5,1445.0,Oakland,94605,0,2,0
+595,"189 Vernon Ter,Oakland, CA 94610",1895,1,1,600.0,Oakland,94610,0,2,1
+596,"5343 Broadway Ter,Oakland, CA 94618",1995,1,1,640.0,Oakland,94618,0,1,2
+597,"5101 Harbord Dr,Oakland, CA 94618",5400,3,2,2470.0,Oakland,94618,0,0,1
+598,"6449 Benvenue Ave,Oakland, CA 94618",3200,1,1,800.0,Oakland,94618,0,3,1
+599,"6288 Ruthland Rd,Oakland, CA 94611",5995,4,2.5,2710.0,Oakland,94611,0,3,2
+600,"1911 E 25th St,Oakland, CA 94606",1740,1,1,505.0,Oakland,94606,0,0,0
+601,"3720 Fruitvale Ave,Oakland, CA 94602",2195,1,1,695.0,Oakland,94602,0,4,2
+602,"411 Moraga Ave,Piedmont, CA 94611",5400,3,2,1727.0,Oakland,94611,0,2,1
+603,"1761 Trestle Glen Rd,Piedmont, CA 94610",6995,4,3,2832.0,Oakland,94610,0,3,2
+604,"1522 Alcatraz Ave,Berkeley, CA 94703",3900,3,1,991.0,Oakland,94703,0,3,1
+605,"1813 63rd St,Berkeley, CA 94703",2350,2,1,700.0,Oakland,94703,0,1,1
+606,"2020 Prince St,Berkeley, CA 94703",2195,1,1,620.0,Oakland,94703,0,0,0
+607,"390 Euclid Ave,Oakland, CA 94610",1850,0,1,125.0,Oakland,94610,0,0,0
+608,"5860 Beaudry St,Emeryville, CA 94608",0,8,6,3400.0,Oakland,94608,0,0,0
+609,"2901 Claremont Ave,Berkeley, CA 94705",2095,1,1,525.0,Oakland,94705,0,2,1
+610,"1421 Magnolia St,Oakland, CA 94607",875163,5,3,2386.0,Oakland,94607,0,0,0
+611,"150 Panoramic Way Unit 2,Berkeley, CA 94704",3495,2,1,450.0,Oakland,94704,0,0,0
+612,"1520 Jackson St,Oakland, CA 94612",1795,0,1,550.0,Oakland,94612,0,0,1
+613,"730 Wesley Way,Oakland, CA 94610",2250,1,1,750.0,Oakland,94610,0,1,1
+614,"305 Lenox Ave,Oakland, CA 94610",1900,1,1,615.0,Oakland,94610,0,0,1
+615,"407 Vernon St,Oakland, CA 94610",2195,1,1,700.0,Oakland,94610,0,2,2
+616,"856 Erie St,Oakland, CA 94610",2050,1,1,700.0,Oakland,94610,0,2,1
+617,"1401 Jackson St,Oakland, CA 94612",2545,1,1,745.0,Oakland,94612,0,5,2
+618,"59 Dorchester Ave,San Leandro, CA 94577",2100,2,1,850.0,Oakland,94577,0,1,1
+619,"2308 Foothill Blvd,Oakland, CA 94601",1195,0,1,300.0,Oakland,94601,0,0,1
+620,"1732 6th Ave,Oakland, CA 94606",1850,1,1,640.0,Oakland,94606,0,2,3
+621,"3242 Linden St Unit Front,Oakland, CA 94608",2399,2,1,1100.0,Oakland,94608,0,1,0
+622,"6108 Hillegass Ave,Oakland, CA 94618",3300,1,1,500.0,Oakland,94618,0,1,0
+623,"176 15th St,Oakland, CA 94612",1825,1,1,550.0,Oakland,94612,0,2,0
+624,"4369 ADELINE St,Emeryville, CA 94608-3353",0,0,4,9172.0,Oakland,-3353,0,0,0
+625,"570 Boden Way,Oakland, CA 94610",2450,0,1,500.0,Oakland,94610,0,3,2
+626,"848 Vermont St,Oakland, CA 94610",1925,1,1,500.0,Oakland,94610,0,1,1
+627,"335 Perkins St,Oakland, CA 94610",3150,2,1,750.0,Oakland,94610,0,2,2
+628,"2200 E 21st St,Oakland, CA 94606-4214",864798,7,4,2375.0,Oakland,-4214,0,0,0
+629,"2318 9Th Ave,Oakland, CA 94606",883518,5,2,2153.0,Oakland,94606,0,0,0
+630,"692 34th St,Oakland, CA 94609",2100,2,1,1100.0,Oakland,94609,0,0,0
+631,"1821 6th Ave,Oakland, CA 94606",2100,1,1,750.0,Oakland,94606,0,0,0
+632,"520 E 15th St,Oakland, CA 94606",3200,3,1.5,1000.0,Oakland,94606,0,0,0
+633,"6421 Westover Dr,Oakland, CA 94611",4500,4,2,1959.0,Oakland,94611,0,4,2
+634,"330 PARKVIEW Ter,Oakland, CA 94610",1048792,2,2,1235.0,Oakland,94610,0,0,0
+635,"1232 Ashby Ave,Berkeley, CA 94702",2600,2,1,800.0,Oakland,94702,0,2,1
+636,"665 Alcatraz Ave Unit 8,Oakland, CA 94609",2699,2,1,1100.0,Oakland,94609,0,2,1
+637,"1921 103RD Ave,Oakland, CA 94603",551393,3,1,1292.0,Oakland,94603,0,0,0
+638,"3146 Martin Luther King Jr Way,Oakland, CA 94609",2300,0,1,900.0,Oakland,94609,0,3,1
+639,"2680 74th Ave,Oakland, CA 94605",2600,2,1,784.0,Oakland,94605,0,1,0
+640,"2310 25th Ave,Oakland, CA 94601",2450,3,1,1300.0,Oakland,94601,0,1,0
+641,"830 Pine St,Oakland, CA 94607",2330,2,1,708.0,Oakland,94607,0,0,1
+642,"1515 38th Ave,Oakland, CA 94601",1950,2,1,700.0,Oakland,94601,0,0,0
+643,"4418 Virginia Ave,Oakland, CA 94619",1100,1,1,420.0,Oakland,94619,0,3,0
+644,"401 Monte Vista Ave #205,Oakland, CA 94611",2300,1,1,637.0,Oakland,94611,0,3,2
+645,"2606 79th Ave,Oakland, CA 94605",2795,3,1,1050.0,Oakland,94605,0,3,1
+646,"3660 Calafia Ave,Oakland, CA 94605",2400,1,1,950.0,Oakland,94605,0,2,1
+647,"624 Sycamore St,Oakland, CA 94612",1795,2,1,712.0,Oakland,94612,0,0,1
+648,"270 Perkins St,Oakland, CA 94610",2395,2,1,807.5,Oakland,94610,0,0,0
+649,"475 Weldon Ave,Oakland, CA 94610",0,64,45,42794.0,Oakland,94610,0,0,0
+650,"3014 Fruitvale Ave,Oakland, CA 94602",1799,1,1,650.0,Oakland,94602,0,0,1
+651,"2250 96th Ave,Oakland, CA 94603",1650,1,1,600.0,Oakland,94603,0,0,0
+652,"4081 Oak Hill Rd,Oakland, CA 94605",4500,3,3,2006.0,Oakland,94605,0,4,0
+653,"4216 Piedmont Ave,Oakland, CA 94611",3100,2,1,998.0,Oakland,94611,0,1,1
+654,"4015 Howe St,Oakland, CA 94611",1950,1,1,600.0,Oakland,94611,0,1,0
+655,"3063 Blossom St,Oakland, CA 94601",1895,2,1,1000.0,Oakland,94601,0,0,0
+656,"3024 Fruitvale Ave,Oakland, CA 94602",2295,3,1,780.0,Oakland,94602,0,1,1
+657,"4138 Webster St,Oakland, CA 94609",2495,2,1,700.0,Oakland,94609,0,2,1
+658,"2800 21st Ave,Oakland, CA 94606",1995,1,1,600.0,Oakland,94606,0,2,0
+659,"3329 Suter St,Oakland, CA 94602",3250,2,1,720.0,Oakland,94602,0,2,1
+660,"1122 E 17th St,Oakland, CA 94606",1295,0,1,330.0,Oakland,94606,0,1,1
+661,"824 15th St,Oakland, CA 94607",1545,1,1,507.0,Oakland,94607,0,1,1
+662,"2274 E 15th St,Oakland, CA 94606",1195,0,1,316.0,Oakland,94606,0,1,1
+663,"3615 Martin Luther King Jr Way,Oakland, CA 94609",1895,2,1,700.0,Oakland,94609,0,1,1
+664,"1300 Benedict Dr,San Leandro, CA 94577",3500,3,2,1000.0,Oakland,94577,2,2,0
+665,"4620 West St,Oakland, CA 94608",3200,3,2,1937.0,Oakland,94608,0,0,0
+666,"1036 45th St,Emeryville, CA 94608",2800,2,1,800.0,Oakland,94608,0,0,0
+667,"5831 Keith Ave,Oakland, CA 94618",3795,2,1,1161.0,Oakland,94618,0,3,1
+668,"4449 MATTIS Ct,Oakland, CA 94619",1074386,3,2.5,1825.0,Oakland,94619,0,0,0
+669,"262 28th St,Oakland, CA 94611",1995,2,1,750.0,Oakland,94611,0,0,1
+670,"1671 11th St,Oakland, CA 94607",2300,2,1,1175.0,Oakland,94607,0,1,0
+671,"5239 Claremont Ave,Oakland, CA 94618",2495,1,1,591.0,Oakland,94618,0,4,2
+672,"1985 Pleasant Valley Ave,Oakland, CA 94611",2199,1,1,688.0,Oakland,94611,0,0,1
+673,"371 12th St Unit 7,Oakland, CA 94607",1900,2,1,928.0,Oakland,94607,0,1,0
+674,"323 63rd St,Oakland, CA 94618",3600,1,1,725.0,Oakland,94618,0,3,2
+675,"2716 Darnby Dr,Oakland, CA 94611",6100,5,2.5,2914.0,Oakland,94611,0,2,1
+676,"279 Lee St,Oakland, CA 94610",1950,1,1,750.0,Oakland,94610,0,1,3
+677,"5339 Walnut St,Oakland, CA 94619",2800,2,1,914.0,Oakland,94619,0,2,1
+678,"5825 Thornhill Dr #7,Oakland, CA 94611",2475,1,1,600.0,Oakland,94611,0,3,1
+679,"2546 99th Ave,Oakland, CA 94605",3400,3,1,1349.0,Oakland,94605,0,1,0
+680,"1951 E 30th St,Oakland, CA 94606",1895,1,1,700.0,Oakland,94606,0,2,2
+681,"1565 Madison St,Oakland, CA 94612",2450,1,1,875.0,Oakland,94612,0,2,2
+682,"1050 70th Ave,Oakland, CA 94621",2950,3,2,1150.0,Oakland,94621,0,1,0
+683,"438 W Grand Ave #419,Oakland, CA 94612",3500,2,2.5,1563.0,Oakland,94612,0,1,1
+684,"13708 Campus Dr,Oakland, CA 94605",1787831,3,3,2933.0,Oakland,94605,0,0,0
+685,"321 Warwick Ave #203,Oakland, CA 94610",2295,1,1,807.0,Oakland,94610,0,3,0
+686,"1724 11th St,Oakland, CA 94607",2695,3,2,1200.0,Oakland,94607,0,2,1
+687,"3428 Dimond Ave,Oakland, CA 94602",2350,2,1,850.0,Oakland,94602,0,1,1
+688,"2134 Woolsey St,Berkeley, CA 94705",2850,2,1,500.0,Oakland,94705,0,3,2
+689,"921 Grace Ave,Oakland, CA 94608",2895,0,1,1000.0,Oakland,94608,0,3,1
+690,"350 Perkins St #208,Oakland, CA 94610",2795,2,2,981.0,Oakland,94610,0,3,2
+691,"3058 Benvenue Ave,Berkeley, CA 94705",5200,3,1.5,1374.0,Oakland,94705,0,2,1
+692,"322 Hanover Ave #302,Oakland, CA 94606",2995,2,2,1094.0,Oakland,94606,0,5,0
+693,"1221 Pine St Unit 1221,Oakland, CA 94607",2850,1,1.5,1045.0,Oakland,94607,0,3,1
+694,"7620 Hillside St,Oakland, CA 94605",1650,2,1,800.0,Oakland,94605,0,0,0
+695,"961 18th St,Oakland, CA 94607",2379,3,1,1000.0,Oakland,94607,0,0,1
+696,"9814 C St,Oakland, CA 94603",2200,2,1,800.0,Oakland,94603,0,0,0
+697,"185 Athol Ave,Oakland, CA 94606",0,32,25,19646.0,Oakland,94606,0,0,0
+698,"2435 Myrtle St,Oakland, CA 94607",2995,3,1,1500.0,Oakland,94607,0,1,0
+699,"4134 Brookdale Ave,Oakland, CA 94619",2250,2,1,1200.0,Oakland,94619,0,0,1
+700,"936 63rd St Unit 1,Oakland, CA 94608",2200,2,1,672.0,Oakland,94608,0,2,2
+701,"2005 PLEASANT VALLEY Ave #209,Oakland, CA 94611",665297,2,2,1135.0,Oakland,94611,0,0,0
+702,"1746 10th Ave,Oakland, CA 94606",1795,1,1,750.0,Oakland,94606,0,0,0
+703,"2867 MacArthur Blvd,Oakland, CA 94602",0,16,16,10080.0,Oakland,94602,0,0,0
+704,"455 Crescent St #220,Oakland, CA 94610",3900,2,2,972.0,Oakland,94610,0,3,3
+705,"1937 26th Ave,Oakland, CA 94601",1195,0,1,348.0,Oakland,94601,0,1,1
+706,"3728 Maybelle Ave,Oakland, CA 94619",1995,1,1,600.0,Oakland,94619,0,1,0
+707,"656 Douglas Ave,Oakland, CA 94603",1950,2,1,795.0,Oakland,94603,0,0,1
+708,"3926 Lyon Ave,Oakland, CA 94601",2295,2,1,850.0,Oakland,94601,0,1,0
+709,"4350 Whittle Ave,Oakland, CA 94602",5200,4,2,2042.0,Oakland,94602,0,3,2
+710,"455 Crescent St #116,Oakland, CA 94610",2150,1,1,846.0,Oakland,94610,0,2,2
+711,"3427 West St,Oakland, CA 94608",2395,3,2,1300.0,Oakland,94608,0,2,1
+712,"3725 West St,Oakland, CA 94608",3950,3,1.5,1539.0,Oakland,94608,0,4,0
+713,"1523 8th Ave,Oakland, CA 94606",2100,2,1,660.0,Oakland,94606,0,0,0
+714,"541 28th St,Oakland, CA 94609",1695,1,1,650.0,Oakland,94609,0,1,0
+715,"5460 Bancroft Ave,Oakland, CA 94601",1395,1,1,475.0,Oakland,94601,0,1,1
+716,"3408 Richmond Blvd,Oakland, CA 94611",2095,1,1,650.0,Oakland,94611,0,1,1
+717,"700 Fruitvale Ave,Oakland, CA 94601",2850,1,1,700.0,Oakland,94601,0,2,1
+718,"2820 Park Blvd,Oakland, CA 94610",2525,2,2,1100.0,Oakland,94610,0,0,0
+719,"150 Pearl St #320,Oakland, CA 94611",2200,2,1,944.0,Oakland,94611,0,1,0
+720,"378 Van Buren - Renovated 2bed and 1bed units - Beautiful Building!378 Van Buren Ave,Oakland, CA 94610",2395,2,1,819.5,Oakland,94610,0,0,0
+721,"3351 Richmond Blvd,Oakland, CA 94611",2750,2,1,1043.0,Oakland,94611,0,3,1
+722,"3792 Harrison St,Oakland, CA 94611",4000,3,2,1550.0,Oakland,94611,0,5,2
+723,"2744 Garden St,Oakland, CA 94601",2400,2,1.5,865.0,Oakland,94601,0,1,0
+724,"427 E 19th St,Oakland, CA 94606",1600,1,1,500.0,Oakland,94606,0,0,0
+725,"105 E 16th St,Oakland, CA 94606",0,18,21,17526.0,Oakland,94606,0,0,0
+726,"359 Grand Ave,Oakland, CA 94610",1375,0,1,338.0,Oakland,94610,0,0,0
+727,"2662 25th Ave,Oakland, CA 94601",2300,2,1,1045.0,Oakland,94601,0,0,0
+728,"121 41st St,Oakland, CA 94611",1700,0,1,520.0,Oakland,94611,0,3,1
+729,"21 Windward Hl,Oakland, CA 94618",5480,3,2.5,2000.0,Oakland,94618,0,7,3
+730,"47 Home Pl E,Oakland, CA 94610",2150,2,2,635.0,Oakland,94610,0,2,1
+731,"3229 Logan St,Oakland, CA 94601",2600,2,1,700.0,Oakland,94601,0,0,0
+732,"3915 Redding St,Oakland, CA 94619",2500,1,1,640.0,Oakland,94619,0,0,0
+733,"924 Edy Ln,Oakland, CA 94607",3400,2,2.5,1252.0,Oakland,94607,0,4,1
+734,"716 Aileen St,Oakland, CA 94609",3900,4,2,1227.0,Oakland,94609,0,3,0
+735,"3840 Martin Luther King Jr Way,Oakland, CA 94609",2550,2,1,826.0,Oakland,94609,0,0,2
+736,"3609 Adeline St,Emeryville, CA 94608",3950,3,2,1036.0,Oakland,94608,0,4,1
+737,"480 37th St,Oakland, CA 94609",0,0,6,3162.0,Oakland,94609,0,0,0
+738,"2806 22nd Ave,Oakland, CA 94606",3200,3,1,1259.0,Oakland,94606,0,0,1
+739,"2333 Humboldt Ave,Oakland, CA 94601",2695,3,2,1100.0,Oakland,94601,0,0,0
+740,"3924 Nevil St,Oakland, CA 94601",2995,2,1,810.0,Oakland,94601,0,3,1
+741,"11240 Golf Links Rd,Oakland, CA 94605",6495,4,3,2529.0,Oakland,94605,0,3,1
+742,"1235 Stanford Ave Unit 5582B,Oakland, CA 94608",1595,0,1,500.0,Oakland,94608,0,2,1
+743,"1836 9th Ave,Oakland, CA 94606",1850,1,1,489.0,Oakland,94606,0,1,0
+744,"3513 Lincoln Ave,Oakland, CA 94602",1450,1,1,325.0,Oakland,94602,0,1,0
+745,"2551 Ivy Dr,Oakland, CA 94606",2245,1,1,1025.0,Oakland,94606,0,2,2
+746,"386 Euclid Ave,Oakland, CA 94610",1890,0,1,150.0,Oakland,94610,0,0,0
+747,"696 Athol Ave #305,Oakland, CA 94610",2095,1,1,643.0,Oakland,94610,0,2,2
+748,"460 28th St,Oakland, CA 94609",2600,1,1,500.0,Oakland,94609,0,0,1
+749,"428 Perkins St,Oakland, CA 94610",1750,0,1,500.0,Oakland,94610,0,0,1
+750,"1580 Madison St,Oakland, CA 94612",0,13,0,22983.0,Oakland,94612,0,0,0
+751,"K Street Flats2020 Kittredge St,Berkeley, CA 94704",2568,2,1,618.5,Berkeley,94704,1,9,7
+752,"Avalon Berkeley651 Addison St,Berkeley, CA 94710",2050,2,2,1019.5,Berkeley,94710,2,9,4
+753,"45 Stratford Rd,Kensington, CA 94707",5400,4,2,1806.0,Berkeley,94707,0,3,0
+754,"6449 Benvenue Ave,Oakland, CA 94618",3200,1,1,800.0,Berkeley,94618,0,3,1
+755,"1139 66th St,Oakland, CA 94608",4780,3,3,1600.0,Berkeley,94608,0,11,0
+756,"1814 Tenth St,Berkeley, CA 94710",1999,1,1,588.0,Berkeley,94710,0,2,0
+757,"1802 Tenth St,Berkeley, CA 94710",1999,1,1,588.0,Berkeley,94710,0,3,0
+758,"2515 Benvenue Ave Unit 101,Berkeley, CA 94704",2252,1,1,540.0,Berkeley,94704,0,2,1
+759,"1522 Alcatraz Ave,Berkeley, CA 94703",3900,3,1,991.0,Berkeley,94703,0,3,1
+760,"1813 63rd St,Berkeley, CA 94703",2350,2,1,700.0,Berkeley,94703,0,1,1
+761,"2020 Prince St,Berkeley, CA 94703",2195,1,1,620.0,Berkeley,94703,0,0,0
+762,"150 Panoramic Way Unit 2,Berkeley, CA 94704",3495,2,1,450.0,Berkeley,94704,0,0,0
+763,"3001 Deakin St,Berkeley, CA 94705",2495,2,1,600.0,Berkeley,94705,0,2,0
+764,"2811 Martin Luther King Junior Way,Berkeley, CA 94703",4400,3,1,1580.0,Berkeley,94703,0,2,1
+765,"2014 Channing Way,Berkeley, CA 94704",4200,3,1,1100.0,Berkeley,94704,0,0,0
+766,"2901 Channing Way,Berkeley, CA 94704",1099,1,6.5,174.0,Berkeley,94704,0,2,1
+767,"1406 Allston Way,Berkeley, CA 94702",2525,2,1,750.0,Berkeley,94702,0,1,1
+768,"924 Colusa Ave,Berkeley, CA 94707",5595,3,2,2561.0,Berkeley,94707,0,1,1
+769,"1818 Walnut St,Berkeley, CA 94709",2295,1,1,600.0,Berkeley,94709,0,0,0
+770,"1939 Francisco St,Berkeley, CA 94709",4500,4,2,1100.0,Berkeley,94709,0,1,0
+771,"2517 Regent St,Berkeley, CA 94704",1850,0,1,400.0,Berkeley,94704,0,0,0
+772,"1221 Shattuck Ave,Berkeley, CA 94709",4350,5,2,1911.0,Berkeley,94709,0,1,0
+773,"2124 McKinley Ave,Berkeley, CA 94703",2275,1,1,725.0,Berkeley,94703,0,1,2
+774,"2901 Claremont Ave,Berkeley, CA 94705",2095,1,1,525.0,Berkeley,94705,0,2,1
+775,"2210 Martin Luther King Jr,Berkeley, CA 94704",1609205,4,3,2374.0,Berkeley,94704,0,0,0
+776,"1039 Channing Way,Berkeley, CA 94710",3050,2,1,910.0,Berkeley,94710,0,1,1
+777,"2532 Dana St,Berkeley, CA 94704",1895,1,1,550.0,Berkeley,94704,0,0,0
+778,"2314 10th St,Berkeley, CA 94710",2295,1,1,600.0,Berkeley,94710,0,3,1
+779,"1232 Ashby Ave,Berkeley, CA 94702",2600,2,1,800.0,Berkeley,94702,0,2,1
+780,"1950 Rose St,Berkeley, CA 94709",2950,2,1,805.0,Berkeley,94709,0,0,0
+781,"1544 Spruce St,Berkeley, CA 94709",3500,2,1,700.0,Berkeley,94709,0,1,0
+782,"1285 Campus Dr,Berkeley, CA 94708",6750,4,3.5,3050.0,Berkeley,94708,0,2,0
+783,"2016 Blake St,Berkeley, CA 94704",1940,1,1,560.0,Berkeley,94704,0,0,0
+784,"1739 Addison St,Berkeley, CA 94703",0,27,15,11679.0,Berkeley,94703,0,0,0
+785,"2801 College Ave,Berkeley, CA 94705",0,13,18,9172.0,Berkeley,94705,0,0,0
+786,"2511 Hearst Ave,Berkeley, CA 94709",2000,0,1,340.0,Berkeley,94709,0,2,0
+787,"2010 Hearst Ave,Berkeley, CA 94709",4700,3,1.5,1188.0,Berkeley,94709,0,4,1
+788,"55 Tamalpais Rd,Berkeley, CA 94708",5475,4,2.5,2025.0,Berkeley,94708,0,4,1
+789,"1729 Milvia St,Berkeley, CA 94709",8000,4,2,2032.0,Berkeley,94709,0,2,0
+790,"323 63rd St,Oakland, CA 94618",3600,1,1,725.0,Berkeley,94618,0,3,2
+791,"798 Santa Barbara Rd,Berkeley, CA 94707",7600,5,2.5,2600.0,Berkeley,94707,0,5,1
+792,"2407 Milvia St,Berkeley, CA 94704",2950,2,1,665.0,Berkeley,94704,0,1,0
+793,"2211 Carleton St,Berkeley, CA 94704",2595,2,1,704.0,Berkeley,94704,0,0,0
+794,"2319 College Ave,Berkeley, CA 94704",3000,2,1,450.0,Berkeley,94704,0,1,0
+795,"936 63rd St Unit 1,Oakland, CA 94608",2200,2,1,672.0,Berkeley,94608,0,2,2
+796,"2134 Woolsey St,Berkeley, CA 94705",2850,2,1,500.0,Berkeley,94705,0,3,2
+797,"3058 Benvenue Ave,Berkeley, CA 94705",5200,3,1.5,1374.0,Berkeley,94705,0,2,1
+798,"2225 Hearst Ave,Berkeley, CA 94709",999,1,1,218.0,Berkeley,94709,0,3,0
+799,"2521 Piedmont Ave,Berkeley, CA 94704",2300,1,1,540.0,Berkeley,94704,0,0,0
+800,"2221 Parker St,Berkeley, CA 94704",2995,2,1,745.0,Berkeley,94704,0,4,2
+801,"1628 Fairview St,Berkeley, CA 94703",2350,1,1,625.0,Berkeley,94703,0,2,1
+802,"2540 Benvenue Ave,Berkeley, CA 94704",0,23,24,15912.0,Berkeley,94704,0,0,0
+803,"2747 San Pablo Ave Unit B,Berkeley, CA 94702",3100,1,1,1115.0,Berkeley,94702,0,1,0
+804,"1817 7th St,Berkeley, CA 94710",2400,2,1,775.0,Berkeley,94710,0,0,0
+805,"2901 Lorina St,Berkeley, CA 94705",3600,3,1,700.0,Berkeley,94705,0,1,0
+806,"1862 Arch St,Berkeley, CA 94709",0,10,11,7352.0,Berkeley,94709,0,0,0
+807,"2360 Ellsworth St,Berkeley, CA 94704",0,13,9,5037.0,Berkeley,94704,0,0,0
+808,"2350 Prospect St,Berkeley, CA 94704",999,1,1,184.0,Berkeley,94704,0,3,0
+809,"2322 Haste St,Berkeley, CA 94704",0,3,25,13104.0,Berkeley,94704,0,0,0
+810,"1468 Olympus Ave,Berkeley, CA 94708",5800,3,2,1600.0,Berkeley,94708,0,5,2
+811,"2618 College Ave,Berkeley, CA 94704",3700,2,1,680.0,Berkeley,94704,0,0,0
+812,"2627 Fulton St,Berkeley, CA 94704",2200,1,1,426.0,Berkeley,94704,0,2,1
+813,"2425 Ellsworth St,Berkeley, CA 94704",4800,3,1,800.0,Berkeley,94704,0,0,0
+814,"1626 Bonita Ave,Berkeley, CA 94709",2300,1,1,630.0,Berkeley,94709,0,2,0
+815,"1385 Shattuck Ave,Berkeley, CA 94709",2045,1,1,540.0,Berkeley,94709,0,0,0
+816,"1920 Francisco St,Berkeley, CA 94709",0,43,43,28933.0,Berkeley,94709,0,0,0
+817,"1630 Russell St,Berkeley, CA 94703",2465,2,1,750.0,Berkeley,94703,0,1,2
+818,"1635 Francisco St,Berkeley, CA 94703",2500,2,1,700.0,Berkeley,94703,0,1,0
+819,"1642 Harmon St,Berkeley, CA 94703",2500,2,1,650.0,Berkeley,94703,0,3,2
+820,"1803 8th St,Berkeley, CA 94710",3775,3,1,1100.0,Berkeley,94710,0,1,0
+821,"2811 Telegraph Ave,Berkeley, CA 94705",2150,2,1,700.0,Berkeley,94705,0,0,0
+822,"2500 Dana St,Berkeley, CA 94704",2450,1,1,600.0,Berkeley,94704,0,2,1
+823,"2240 Blake St,Berkeley, CA 94704",1400,3,1,970.0,Berkeley,94704,0,3,2
+824,"1611 Russell St,Berkeley, CA 94703",2886,2,1,1000.0,Berkeley,94703,0,2,0
+825,"946 San Benito Rd,Berkeley, CA 94707",2500,0,1,400.0,Berkeley,94707,0,2,0
+826,"1115 Hearst Ave,Berkeley, CA 94702",5500,3,2.5,2334.0,Berkeley,94702,0,3,0
+827,"1445 Carleton St,Berkeley, CA 94702",2300,1,1,602.0,Berkeley,94702,0,0,0
+828,"6018 Adeline St,Oakland, CA 94608",2795,1,1,800.0,Berkeley,94608,0,2,0
+829,"1770 La Loma Ave,Berkeley, CA 94709",1099,1,8,140.0,Berkeley,94709,0,2,0
+830,"1806 8th St,Berkeley, CA 94710",2160,1,1,492.0,Berkeley,94710,0,0,1
+831,"1443 Carleton St,Berkeley, CA 94702",2300,1,1,602.0,Berkeley,94702,0,1,2
+832,"2425 Prospect St,Berkeley, CA 94704",999,1,1,180.0,Berkeley,94704,0,3,0
+833,"2327 Dwight Way,Berkeley, CA 94704",3500,2,1,1150.0,Berkeley,94704,0,1,0
+834,"2718 Dana St Unit 1,Berkeley, CA 94705",1950,0,1,600.0,Berkeley,94705,0,1,0
+835,"1435 Parker St,Berkeley, CA 94702",1758121,7,5,2770.0,Berkeley,94702,0,0,0
+836,"1438 DELAWARE St,Berkeley, CA 94702-1521",1124746,3,1,1041.0,Berkeley,-1521,0,0,0
+837,"118 Strathmoor Dr,Berkeley, CA 94705",1400,1,1,190.0,Berkeley,94705,0,3,1
+838,"690 61st St,Oakland, CA 94609",2287,2,1,600.0,Berkeley,94609,0,3,1
+839,"2025 Kala Bagai Way,Berkeley, CA 94704",1431,0,1,371.0,Berkeley,94704,0,3,0
+840,"2209 Haste St,Berkeley, CA 94704",10000,7,3,2017.0,Berkeley,94704,0,1,0
+841,"620 San Miguel Ave Unit A,Berkeley, CA 94707",3000,1,1,637.0,Berkeley,94707,0,2,1
+842,"2070 University Ave,Berkeley, CA 94704",1895,1,1,365.0,Berkeley,94704,0,0,0
+843,"2700 Le Conte Ave #406,Berkeley, CA 94709",2300,1,1,682.0,Berkeley,94709,0,3,1
+844,"1917 Sixth St Unit 01-12,Berkeley, CA 94710",2295,2,1,700.0,Berkeley,94710,0,0,1
+845,"1241 Berkeley Way,Berkeley, CA 94702",1850,0,1,500.0,Berkeley,94702,0,0,1
+846,"2130 Woolsey St Unit C,Berkeley, CA 94705",2000,1,1,550.0,Berkeley,94705,0,3,0
+847,"1428 Seventh St,Berkeley, CA 94710",4500,2,1,800.0,Berkeley,94710,0,3,1
+848,"150 Panoramic Way Unit 4,Berkeley, CA 94704",3200,2,1,450.0,Berkeley,94704,0,0,0
+849,"2335 Warring St,Berkeley, CA 94704",999,1,6.5,161.0,Berkeley,94704,0,2,0
+850,"2307 Prince St,Berkeley, CA 94705",4800,4,2,1347.0,Berkeley,94705,0,1,0
+851,"150 Panoramic Way Unit 1,Berkeley, CA 94704",5000,2,1,900.0,Berkeley,94704,0,0,0
+852,"2421 Durant Ave,Berkeley, CA 94704",1900,1,1,445.0,Berkeley,94704,0,0,0
+853,"2923 Wheeler St Unit A,Berkeley, CA 94705",2099,1,1,673.0,Berkeley,94705,0,1,0
+854,"1303 Stannage Ave Unit A,Berkeley, CA 94702",3900,3,1,1200.0,Berkeley,94702,0,6,0
+855,"2818 Telegraph Ave Unit 36,Berkeley, CA 94705",1800,0,1,500.0,Berkeley,94705,0,1,1
+856,"2070 University Ave Unit 211,Berkeley, CA 94704",1895,0,1,365.0,Berkeley,94704,0,2,0
+857,"1815 Highland Pl Unit 4,Berkeley, CA 94709",1600,1,1,151.0,Berkeley,94709,0,0,0
+858,"1379 Harmon St,Berkeley, CA 94702",2200,2,1,800.0,Berkeley,94702,0,2,0
+859,"2818 Telegraph Ave Unit 1,Berkeley, CA 94705",2100,1,1,700.0,Berkeley,94705,0,1,2
+860,"1323 Ashby Ave Unit D,Berkeley, CA 94702",2350,2,1,720.0,Berkeley,94702,0,0,0
+861,"1399 Harmon St,Berkeley, CA 94702",3000,3,2,1300.0,Berkeley,94702,0,4,1
+862,"1927 Dwight Way Unit 101,Berkeley, CA 94704",3300,2,1,782.0,Berkeley,94704,0,2,0
+863,"2421 Durant Ave Unit 6,Berkeley, CA 94704",1900,0,1,445.0,Berkeley,94704,0,0,0
+864,"2101 McGee Ave,Berkeley, CA 94703",1750,0,1,500.0,Berkeley,94703,0,2,0
+865,"1632 Russell St Unit 2,Berkeley, CA 94703",2295,2,1,850.0,Berkeley,94703,0,0,0
+866,"Civic Plaza10944 San Pablo Ave,El Cerrito, CA 94530",2075,2,2,756.0,Richmond,94530,1,10,8
+867,"53 Lakeshore Ct,Richmond, CA 94804",2200,1,1,549.0,Richmond,94804,0,6,5
+868,"1634 Portside Way,Richmond, CA 94804",3995,3,2.5,1831.0,Richmond,94804,0,3,0
+869,"5001 Garvin Ave,Richmond, CA 94805",1700,0,1,400.0,Richmond,94805,0,2,0
+870,"215 Tunnel Ave,Richmond, CA 94801",2744,2,1,1025.0,Richmond,94801,0,5,1
+871,"Furnished Studio - Richmond - Hilltop Mall3170 Garrity Way,Richmond, CA 94806",3000,0,1,300.0,Richmond,94806,0,12,15
+872,"5844 Arlington Blvd,Richmond, CA 94805",3144,3,2,1428.0,Richmond,94805,0,2,0
+873,"3827 Waller Ave Unit 3827,Richmond, CA 94804",3000,2,1,700.0,Richmond,94804,0,0,0
+874,"36 Christopher Ct,El Sobrante, CA 94803",3295,3,2,2001.0,Richmond,94803,0,1,0
+875,"3263 Belmont Ave,El Cerrito, CA 94530",2195,2,1,800.0,Richmond,94530,0,2,0
+876,"2810 Gaynor Ave,Richmond, CA 94804",3100,3,1,1169.0,Richmond,94804,0,3,0
+877,"115 Murdock St,Richmond, CA 94804",3150,3,2,1584.0,Richmond,94804,0,4,1
+878,"3307 Humphrey Ave,Richmond, CA 94804",2500,3,1,963.0,Richmond,94804,0,3,0
+879,"5217 POTRERO Ave,El Cerrito, CA 94530-2120",712404,2,2,1267.0,Richmond,-2120,0,0,0
+880,"5318 Ridgeview Cir #4,El Sobrante, CA 94803",2000,1,1,611.0,Richmond,94803,0,1,0
+881,"276 S 41st St,Richmond, CA 94804",2495,2,1,900.0,Richmond,94804,0,1,0
+882,"1513 Bissell Ave,Richmond, CA 94801",1890,2,1,909.0,Richmond,94801,0,0,0
+883,"535 Pierce St #5201,Albany, CA 94706",3100,2,2,1170.0,Richmond,94706,0,3,2
+884,"203 16th St,Richmond, CA 94801",1675,1,1,800.0,Richmond,94801,0,1,0
+885,"501 S 26th St,Richmond, CA 94804",1875,2,1,650.0,Richmond,94804,0,0,0
+886,"12 Lakeshore Ct,Richmond, CA 94804",2295,1,1,779.0,Richmond,94804,0,3,0
+887,"651 Kern St Unit Richmond,Richmond, CA 94805",1800,1,1,400.0,Richmond,94805,0,3,2
+888,"4367 Nelson Dr,El Sobrante, CA 94803",3200,3,1,1126.0,Richmond,94803,0,2,2
+889,"1 Shoreline Ct Unit 99,Richmond, CA 94804",2375,1,1,550.0,Richmond,94804,0,1,1
+890,"15 Montalvin Dr,San Pablo, CA 94806",2500,3,1,950.0,Richmond,94806,0,0,1
+891,"149 W Richmond Ave,Richmond, CA 94801",1795,1,1,400.0,Richmond,94801,0,2,1
+892,"2213 Humboldt St,El Cerrito, CA 94530",3350,2,1.5,1600.0,Richmond,94530,0,2,1
+893,"202 Shoreline Ct Unit 202,Richmond, CA 94804",3300,2,2,1001.0,Richmond,94804,0,3,2
+894,"1715 Livingston Ln Unit 1,Richmond, CA 94801",3100,3,2,1334.0,Richmond,94801,0,2,0
+895,"The Terraces at Nevin22nd St & Nevin Ave,Richmond, CA 94801",1153,4,2,842.5,Richmond,94801,1,11,7
+896,"SECOND and B STREET815 B St,San Rafael, CA 94901",3400,2,2,770.0,San Rafael,94901,1,4,4
+897,"Highlands of Marin1001 Cresta Way,San Rafael, CA 94903",2695,3,2,1025.0,San Rafael,94903,3,5,15
+898,"Furnished Studio - San Rafael - Francisco Blvd. East1775 Francisco Blvd E,San Rafael, CA 94901",3300,0,1,300.0,San Rafael,94901,0,11,17
+899,"135 Nova Albion Way,San Rafael, CA 94903",2400,1,1,900.0,San Rafael,94903,0,1,2
+900,"637 Idylberry Rd,San Rafael, CA 94903",5300,4,2,1986.0,San Rafael,94903,0,5,2
+901,"144 Tamal Vista Dr,San Rafael, CA 94901",4800,3,2,1988.0,San Rafael,94901,0,4,1
+902,"908 Lea Dr,San Rafael, CA 94903",4000,3,1.5,1440.0,San Rafael,94903,0,6,4
+903,"108 Professional Center Pkwy,San Rafael, CA 94903",1849,1,1,475.0,San Rafael,94903,0,2,1
+904,"73 Roundtree Blvd,San Rafael, CA 94903",3800,3,2,1165.0,San Rafael,94903,0,4,4
+905,"526 Tarragon Dr,San Rafael, CA 94903",4650,3,2,1526.0,San Rafael,94903,0,3,2
+906,"79 Roundtree Blvd,San Rafael, CA 94903",2850,2,1.5,949.0,San Rafael,94903,0,3,1
+907,"1907 Las Gallinas Ave,San Rafael, CA 94903",4500,3,2,1416.0,San Rafael,94903,0,4,1
+908,"228 Miramar Ave,San Rafael, CA 94901",3450,2,1,1184.0,San Rafael,94901,0,3,0
+909,"10 Professional Center Pkwy #5,San Rafael, CA 94903",3300,2,1.5,1128.0,San Rafael,94903,0,2,2
+910,"51 Robinhood Dr,San Rafael, CA 94901",5300,4,2,2104.0,San Rafael,94901,0,3,0
+911,"124 Captains Cove Dr,San Rafael, CA 94903",3275,2,1,987.0,San Rafael,94903,0,2,0
+912,"322 Greenfield Ave,San Anselmo, CA 94960",5350,3,2,1660.0,San Rafael,94960,0,5,1
+913,"377 Highland Ave,San Rafael, CA 94901",2000,0,1,275.0,San Rafael,94901,0,1,2
+914,"245 Adobestone Ct,San Rafael, CA 94903",4495,4,2,1260.0,San Rafael,94903,0,5,1
+915,"40 Century Dr,Mill Valley, CA 94941",28000,5,4.5,5000.0,Mill Valley,94941,0,14,0
+916,"439 Wellesley Ave,Mill Valley, CA 94941",11000,5,2.5,3555.0,Mill Valley,94941,0,13,0
+917,"19 Knoll Ln,Mill Valley, CA 94941",0,3,2,15800.0,Mill Valley,94941,0,0,0
+918,"528 Montford Ave,Mill Valley, CA 94941",10400,4,3,3207.0,Mill Valley,94941,0,5,3
+919,"38 Mountain View Ave,Mill Valley, CA 94941",9250,4,2.5,2400.0,Mill Valley,94941,0,3,3
+920,"10 Shelley Dr,Mill Valley, CA 94941",2608,2,1,860.0,Mill Valley,94941,0,4,1
+921,"316 Rydal Ave,Mill Valley, CA 94941",7950,4,3,2329.0,Mill Valley,94941,0,3,1
+922,"115 La Goma St,Mill Valley, CA 94941",15000,4,3,2172.0,Mill Valley,94941,0,4,0
+923,"763 Bay Rd,Mill Valley, CA 94941",12000,3,3,2000.0,Mill Valley,94941,0,2,1
+924,"305 Bristol Pl,Mill Valley, CA 94941",7500,5,3,2270.0,Mill Valley,94941,0,2,3
+925,"1100 Western Ave,Mill Valley, CA 94941",7600,3,2,2000.0,Mill Valley,94941,0,5,1
+926,"24 Heather Way,Mill Valley, CA 94941",6800,5,3,3122.0,Mill Valley,94941,0,2,1
+927,"504 Browning St,Mill Valley, CA 94941",4300,2,1.5,1172.0,Mill Valley,94941,0,4,1
+928,"150 Seminary Dr Unit 2B,Mill Valley, CA 94941",3950,2,2,1183.0,Mill Valley,94941,0,3,2
+929,"1106 Shelter Bay Ave,Mill Valley, CA 94941",4695,2,2,1119.0,Mill Valley,94941,0,3,4
+930,"1 Tamalpais Commons Ln,Mill Valley, CA 94941",6150,3,2.5,1608.0,Mill Valley,94941,0,2,1
+931,"28 Harbor Cove Way,Mill Valley, CA 94941",11700,2,2,2344.0,Mill Valley,94941,0,2,1
+932,"338 Edgewood Ave Unit A06-308423,Mill Valley, CA 94941",2350,0,1,600.0,Mill Valley,94941,0,0,0
+933,"16 S Knoll Rd Unit 112,Mill Valley, CA 94941",2895,2,1,1100.0,Mill Valley,94941,0,2,1
+934,"540 Sausalito Blvd,Sausalito, CA 94965",10500,3,2.5,2600.0,Sausalito,94965,0,1,0
+935,"65 Edwards Ave,Sausalito, CA 94965",4100,2,1,900.0,Sausalito,94965,0,3,1
+936,"308 Donahue St,Sausalito, CA 94965",3800,2,1.5,1322.0,Sausalito,94965,0,5,0
+937,"40 Central Ave,Sausalito, CA 94965",5000,2,1,1200.0,Sausalito,94965,0,2,0
+938,"104 Bulkley Ave #6,Sausalito, CA 94965",8500,2,2,1751.0,Sausalito,94965,0,3,0
+939,"43 Marie St,Sausalito, CA 94965",3800,2,1.5,1170.0,Sausalito,94965,0,3,0
+940,"40 Harrison Ave,Sausalito, CA 94965",5100,2,2.5,1200.0,Sausalito,94965,0,4,0
+941,"200 San Carlos Ave,Sausalito, CA 94965",8950,3,2,1953.0,Sausalito,94965,0,4,5
+942,"Seabridge at Glen Cove Apartments1 Spyglass Pkwy,Vallejo, CA 94591",2600,2,2,904.0,Vallejo,94591,1,6,4
+943,"Fountain Plaza Hills300 Hilary Way,Vallejo, CA 94591",1750,2,2,766.5,Vallejo,94591,1,12,16
+944,"135 Olympic Dr,Vallejo, CA 94589",3299,4,2.5,1978.0,Vallejo,94589,0,3,0
+945,"519 Napa St,Vallejo, CA 94590",1849,2,1,700.0,Vallejo,94590,0,3,1
+946,"100 Little River Ct,Vallejo, CA 94591",2450,2,2,989.0,Vallejo,94591,0,9,2
+947,"1633 Valle Vista Ave,Vallejo, CA 94589",1995,2,1.5,905.0,Vallejo,94589,0,4,1
+948,"168 Jordan St,Vallejo, CA 94591",2749,3,2,1092.0,Vallejo,94591,0,2,0
+949,"119 Seascape Dr,Vallejo, CA 94591",3419,5,3,2088.0,Vallejo,94591,0,0,0
+950,"110 Inverness Dr,Vallejo, CA 94589",3009,4,2,1696.0,Vallejo,94589,0,4,0
+951,"118 Spencer St,Vallejo, CA 94589",2799,3,1,981.0,Vallejo,94589,0,2,0
+952,"325 Ohio St,Vallejo, CA 94590",1500,1,1,600.0,Vallejo,94590,0,1,0
+953,"807 Sutter St,Vallejo, CA 94590",1399,1,1,575.0,Vallejo,94590,0,0,0
+954,"545 Georgia St,Vallejo, CA 94590",1199,0,1,400.0,Vallejo,94590,0,1,1
+955,"111 12th St,Vallejo, CA 94590",2700,2,1,1200.0,Vallejo,94590,0,5,1
+956,"1607 Valle Vista Ave,Vallejo, CA 94589",1900,2,1,800.0,Vallejo,94589,0,0,1
+957,"712 Gateway Dr,Vallejo, CA 94589",1450,1,1,560.0,Vallejo,94589,0,0,0
+958,"446 WHITNEY,CA 94589",546881,3,2,1320.0,Vallejo,94589,0,0,0
+959,"258 Westwood St,Vallejo, CA 94591",1950,2,1,980.0,Vallejo,94591,0,0,0
+960,"116 N Camino Alto,Vallejo, CA 94590",1550,0,1,575.0,Vallejo,94590,0,1,2
+961,"108 Missouri St,Vallejo, CA 94590",1650,2,1,810.0,Vallejo,94590,0,1,1
+962,"1488 Valle Vista Ave,Vallejo, CA 94589",1895,2,1,1000.0,Vallejo,94589,0,0,0
+963,"1481 Valle Vista Ave,Vallejo, CA 94589",2250,2,1.5,950.0,Vallejo,94589,0,1,0
+964,"236 Ohio St,Vallejo, CA 94590",1850,2,1,798.0,Vallejo,94590,0,0,0
+965,"1333 N Camino Alto,Vallejo, CA 94589",266887,1,1,640.0,Vallejo,94589,0,0,0
+966,"2203 Napa St Unit 1/2,Vallejo, CA 94590",2300,3,1,1300.0,Vallejo,94590,0,1,0
+967,"735 Virginia St,Vallejo, CA 94590",1595,1,1,534.0,Vallejo,94590,0,0,0
+968,"1201 Glen Cove Pkwy #1108,Vallejo, CA 94591",2400,2,2,1014.0,Vallejo,94591,0,3,1
+969,"77 B St,Vallejo, CA 94590",2495,3,1,1200.0,Vallejo,94590,0,3,2
+970,"1333 N Camino Alto #145,Vallejo, CA 94589",2100,2,1,736.0,Vallejo,94589,0,1,1
+971,"1333 N Camino Alto #213,Vallejo, CA 94589",1350,0,1,500.0,Vallejo,94589,0,2,2
+972,"132 Rainbow Ct,Vallejo, CA 94591",1850,2,1,1024.0,Vallejo,94591,0,4,0
+973,"331 Lighthouse Dr,Vallejo, CA 94590",2150,2,1,840.0,Vallejo,94590,0,3,3
+974,"731 Virginia St,Vallejo, CA 94590",1595,1,1,534.0,Vallejo,94590,0,1,0
+975,"110 Alabama St,Vallejo, CA 94590",1650,2,1,800.0,Vallejo,94590,0,0,0
+976,"241 Kentucky St,Vallejo, CA 94590",1320,1,1,465.0,Vallejo,94590,0,1,0
+977,"419 Georgia St,Vallejo, CA 94590",1200,0,1,450.0,Vallejo,94590,0,0,0
+978,"1222 York St,Vallejo, CA 94590",1695,2,1,700.0,Vallejo,94590,0,1,0
+979,"827 Pennsylvania St,Vallejo, CA 94590",1495,1,1,437.0,Vallejo,94590,0,2,0
+980,"326 Capitol St,Vallejo, CA 94590",1345,1,1,690.0,Vallejo,94590,0,1,0
+981,"211 Hampshire St,Vallejo, CA 94590",3069,4,3,1966.0,Vallejo,94590,0,4,0
+982,"403 Trinity St,Vallejo, CA 94590",1680,1,1,510.0,Vallejo,94590,0,1,0
+983,"The Hadley555 E Evelyn Ave,Mountain View, CA 94041",3712,3,2,908.0,Mountain View,94041,0,7,6
+984,"Avalon Towers on the Peninsula2400 W El Camino Real,Mountain View, CA 94040",3440,2,2,990.0,Mountain View,94040,2,4,7
+985,"Verve1984 W El Camino Real,Mountain View, CA 94040",3290,2,2,1110.5,Mountain View,94040,2,9,9
+986,"Reserve at Mountain View870 E El Camino Real,Mountain View, CA 94040",2385,2,2,784.0,Mountain View,94040,1,10,6
+987,"Elan Mountain View1030 Castro St,Mountain View, CA 94040",3240,3,2,952.0,Mountain View,94040,1,9,14
+988,"Birch Creek575 S Rengstorff Ave,Mountain View, CA 94040",2299,2,2,805.0,Mountain View,94040,2,2,8
+989,"eaves Mountain View at Middlefield555 W Middlefield Rd,Mountain View, CA 94043",1990,2,2,726.5,Mountain View,94043,1,3,12
+990,"500 W Middlefield Rd #133,Mountain View, CA 94043",2550,1,1,565.0,Mountain View,94043,0,1,1
+991,"Glenwood Garden210 Calderon Ave,Mountain View, CA 94041",2444,2,1,750.0,Mountain View,94041,2,6,6
+992,"eaves Creekside151 Calderon Ave,Mountain View, CA 94041",2175,2,1,579.0,Mountain View,94041,2,7,14
+993,"Windemere395 Ano Nuevo Ave,Sunnyvale, CA 94085",2375,2,2,828.5,Mountain View,94085,2,13,17
+994,"355 Palo Alto Ave,Mountain View, CA 94041",5500,3,2,1512.0,Mountain View,94041,0,4,0
+995,"Camille Apartments2645 California St,Mountain View, CA 94040",2395,2,1,759.0,Mountain View,94040,0,13,10
+996,"Park Regent2000 Latham St,Mountain View, CA 94040",2150,4,2,1212.5,Mountain View,94040,0,10,12
+997,"301 Eaton Ln,Mountain View, CA 94043",4600,3,2.5,1390.0,Mountain View,94043,0,7,2
+998,"305 Easy St Unit 13,Mountain View, CA 94043",2750,2,1,1000.0,Mountain View,94043,0,3,1
+999,"Camille North Apartments2685 California St,Mountain View, CA 94040",2995,2,1,945.0,Mountain View,94040,0,16,11
+1000,"564 Annie Laurie St #10,Mountain View, CA 94043",3000,2,1,960.0,Mountain View,94043,0,4,1
+1001,"1977 Plymouth St,Mountain View, CA 94043",2385,1,1,525.0,Mountain View,94043,0,0,0
+1002,"1270 Lubich Dr,Mountain View, CA 94040",6750,5,3,2834.0,Mountain View,94040,0,0,0
+1003,"260 Mariposa Ave,Mountain View, CA 94041",1925,0,1,430.0,Mountain View,94041,0,0,2
+1004,"2523 Nedson Ct,Mountain View, CA 94043",4500,3,2,1116.0,Mountain View,94043,0,4,0
+1005,"1290 Brookfield Ave,Sunnyvale, CA 94087",2150,1,1,680.0,Mountain View,94087,0,1,1
+1006,"390 Carmelita Dr,Mountain View, CA 94040",4500,3,1,943.0,Mountain View,94040,0,2,0
+1007,"251 W Evelyn Ave,Mountain View, CA 94041",5350,3,3.5,1704.0,Mountain View,94041,0,6,1
+1008,"1945 Mount Vernon Ct #16,Mountain View, CA 94040",3400,2,2,1300.0,Mountain View,94040,0,2,0
+1009,"California St Apartments1980 California St,Mountain View, CA 94040",2750,2,1,682.5,Mountain View,94040,0,0,0
+1010,"360 Chiquita Ave,Mountain View, CA 94041",2200,1,1,580.0,Mountain View,94041,0,1,3
+1011,"700 Chiquita Ave #2,Mountain View, CA 94041",4650,2,2.5,1180.0,Mountain View,94041,0,3,1
+1012,"81 Glenmead Ct,Mountain View, CA 94040",5350,3,3,1928.0,Mountain View,94040,0,4,0
+1013,"191 Easy St,Mountain View, CA 94043",4500,3,2.5,1400.0,Mountain View,94043,0,5,2
+1014,"345 Windingwood Ct,Mountain View, CA 94040",3995,2,2.5,1240.0,Mountain View,94040,0,5,2
+1015,"1445 Mercy St,Mountain View, CA 94041",4500,2,1,989.0,Mountain View,94041,0,3,2
+1016,"2491 Whitney Dr,Mountain View, CA 94043",3030,2,1,840.0,Mountain View,94043,0,2,1
+1017,"139 Concord Cir,Mountain View, CA 94040",5600,3,2.5,1300.0,Mountain View,94040,0,1,0
+1018,"431 Lotus Ln,Mountain View, CA 94043",4095,3,2,1290.0,Mountain View,94043,0,2,1
+1019,"376 View St #4,Mountain View, CA 94041",2795,2,1,750.0,Mountain View,94041,0,1,0
+1020,"221 Easy St #3,Mountain View, CA 94043",3295,2,1.5,1040.0,Mountain View,94043,0,4,0
+1021,"1201 El Monte Ave,Mountain View, CA 94040",5975,3,2,1382.0,Mountain View,94040,0,2,0
+1022,"1339 Park Dr,Mountain View, CA 94040",2950,1,1,620.0,Mountain View,94040,0,1,0
+1023,"1973 San Luis Ave,Mountain View, CA 94043",2995,2,2,860.0,Mountain View,94043,0,2,0
+1024,"2110 W Middlefield Rd,Mountain View, CA 94043",2895,1,1,950.0,Mountain View,94043,0,5,3
+1025,"255 S Rengstorff Ave #6,Mountain View, CA 94040",2960,1,1,784.0,Mountain View,94040,0,5,3
+1026,"2336 California St Unit 24,Mountain View, CA 94040",2000,1,1,900.0,Mountain View,94040,0,1,2
+1027,"185 Escuela Ave Unit A,Mountain View, CA 94040",3095,2,1,850.0,Mountain View,94040,0,3,1
+1028,"211 Easy St Unit 2,Mountain View, CA 94043",2695,2,1,900.0,Mountain View,94043,0,2,1
+1029,"532 Easy St Unit B,Mountain View, CA 94043",4545,4,3,1700.0,Mountain View,94043,0,4,0
+1030,"717 Mountain View Ave Unit C,Mountain View, CA 94041",3200,2,2,1000.0,Mountain View,94041,0,2,1
+1031,"178 Centre St Unit 18,Mountain View, CA 94041",2250,1,1,650.0,Mountain View,94041,0,0,2
+1032,"620 Alamo Ct,Mountain View, CA 94043",2195,1,1,650.0,Mountain View,94043,0,2,2
+1033,"647 Victor Way Unit 1,Mountain View, CA 94040",2795,2,1,950.0,Mountain View,94040,0,1,2
+1034,"1930 Mount Vernon Ct,Mountain View, CA 94040",3000,2,1,850.0,Mountain View,94040,0,3,1
+1035,"430 Hart Ct,Mountain View, CA 94043",4250,2,2.5,1236.0,Mountain View,94043,0,2,2
+1036,"1060 W Dana St,Mountain View, CA 94041",4100,3,1,1176.0,Mountain View,94041,0,4,0
+1037,"280 Easy St #505,Mountain View, CA 94043",2700,2,1,967.0,Mountain View,94043,0,0,1
+1038,"376 View St #5,Mountain View, CA 94041",2795,2,1,720.0,Mountain View,94041,0,1,0
+1039,"1908 Cambridge Dr,Mountain View, CA 94043",4195,2,2.5,1490.0,Mountain View,94043,0,6,0
+1040,"926 Camille Ln,Mountain View, CA 94040",5300,3,3.5,2022.0,Mountain View,94040,0,10,0
+1041,"Furnished Studio - San Jose - Mountain View190 E El Camino Real,Mountain View, CA 94041",3240,0,1,270.0,Mountain View,94041,0,11,13
+1042,"The Palamino2755 El Camino Real,Palo Alto, CA 94306",3392,1,1,462.5,Palo Alto,94306,1,14,13
+1043,"Southwood2850 Middlefield Rd,Palo Alto, CA 94306",3139,2,2,865.0,Palo Alto,94306,1,4,5
+1044,"Stanford Villa3375 Alma St,Palo Alto, CA 94306",2415,2,2,820.0,Palo Alto,94306,2,12,15
+1045,"2046 Emerson St,Palo Alto, CA 94301",4495,2,1,950.0,Palo Alto,94301,0,1,1
+1046,"Camille Apartments2645 California St,Mountain View, CA 94040",2395,2,1,759.0,Palo Alto,94040,0,13,10
+1047,"1235 Alma St,Palo Alto, CA 94301",6500,3,2.5,2240.0,Palo Alto,94301,0,4,0
+1048,"174 E Charleston Rd,Palo Alto, CA 94306",2000,0,1,230.0,Palo Alto,94306,0,0,0
+1049,"800 High St #114,Palo Alto, CA 94301",5750,2,2,1270.0,Palo Alto,94301,2,3,1
+1050,"Camille North Apartments2685 California St,Mountain View, CA 94040",2995,2,1,945.0,Palo Alto,94040,0,16,11
+1051,"516 Thain Way,Palo Alto, CA 94306",4600,3,2,1150.0,Palo Alto,94306,0,2,1
+1052,"936 Waverley St,Palo Alto, CA 94301",6250,3,2,1404.0,Palo Alto,94301,0,2,0
+1053,"200 Waverley St,Menlo Park, CA 94025",4500,1,1,750.0,Palo Alto,94025,0,3,0
+1054,"436 High St #203,Palo Alto, CA 94301",4450,2,2,950.0,Palo Alto,94301,0,0,1
+1055,"3990 Duncan Pl,Palo Alto, CA 94306",7500,4,3,2100.0,Palo Alto,94306,0,3,0
+1056,"726 Homer Ave,Palo Alto, CA 94301",7595,4,2,1825.0,Palo Alto,94301,0,2,0
+1057,"3102 David Ave,Palo Alto, CA 94303",3595,2,2,950.0,Palo Alto,94303,0,3,1
+1058,"4037 Villa Vista,Palo Alto, CA 94306",5695,3,3,1656.0,Palo Alto,94306,0,4,2
+1059,"330 Kipling St,Palo Alto, CA 94301",4300,2,1,900.0,Palo Alto,94301,0,2,0
+1060,"2523 Nedson Ct,Mountain View, CA 94043",4500,3,2,1116.0,Palo Alto,94043,0,4,0
+1061,"884 Colorado Ave,Palo Alto, CA 94303",5750,4,2,1500.0,Palo Alto,94303,0,2,1
+1062,"536 Everett Ave,Palo Alto, CA 94301",2595,1,1,515.0,Palo Alto,94301,0,2,1
+1063,"3087 Ross Rd,Palo Alto, CA 94303",12500,5,4.5,3101.0,Palo Alto,94303,0,1,0
+1064,"2891 Alma St,Palo Alto, CA 94306",2850,2,1,775.0,Palo Alto,94306,0,0,0
+1065,"777 San Antonio Rd #93,Palo Alto, CA 94303",4350,3,2,1212.0,Palo Alto,94303,0,3,1
+1066,"318 Emerson St,Palo Alto, CA 94301",3950,2,2,684.0,Palo Alto,94301,0,2,1
+1067,"347 Everett Ave,Palo Alto, CA 94301",2295,1,1,600.0,Palo Alto,94301,0,0,2
+1068,"750 Paul Ave Unit B,Palo Alto, CA 94306",3500,2,2.5,860.0,Palo Alto,94306,0,1,0
+1069,"578 Vista Ave,Palo Alto, CA 94306",2750,1,1,562.0,Palo Alto,94306,0,5,0
+1070,"660 Forest Ave,Palo Alto, CA 94301",3400,2,1,1200.0,Palo Alto,94301,0,3,2
+1071,"220 Curtner Ave Unit J,Palo Alto, CA 94306",2550,2,1,800.0,Palo Alto,94306,0,2,1
+1072,"2709 Alma St,Palo Alto, CA 94306",3298,2,1,1500.0,Palo Alto,94306,0,3,1
+1073,"4206 Rickeys Way Unit E,Palo Alto, CA 94306",5200,3,3,1554.0,Palo Alto,94306,0,3,2
+1074,"2333 Louis Rd,Palo Alto, CA 94303",8000,4,4,2700.0,Palo Alto,94303,0,3,0
+1075,"177 Bryant St,Palo Alto, CA 94301",8950,5,2,3216.0,Palo Alto,94301,0,1,1
+1076,"715 Greer Rd,Palo Alto, CA 94303",4938420,4,4,2339.0,Palo Alto,94303,0,0,0
+1077,"530 Hawthorne Ave,Palo Alto, CA 94301",2350,1,1,600.0,Palo Alto,94301,0,1,1
+1078,"2310 Bowdoin St,Palo Alto, CA 94306",19500,4,3,2576.0,Palo Alto,94306,0,2,0
+1079,"530 Webster St,Palo Alto, CA 94301",2995,0,1,503.0,Palo Alto,94301,0,1,1
+1080,"2884 South Ct,Palo Alto, CA 94306",6300,3,2,1695.0,Palo Alto,94306,0,4,0
+1081,"874 California Ave,Palo Alto, CA 94306",3400,1,1,644.0,Palo Alto,94306,0,1,1
+1082,"1104 Trinity Ln,Palo Alto, CA 94303",4300,2,2.5,1130.0,Palo Alto,94303,0,3,0
+1083,"1337 Lincoln Ave,Palo Alto, CA 94301",12000,5,4.5,2901.0,Palo Alto,94301,0,1,1
+1084,"2705 Alma St,Palo Alto, CA 94306",2500,1,1,600.0,Palo Alto,94306,0,1,1
+1085,"382 Curtner Ave #3,Palo Alto, CA 94306",4985,3,2.5,1650.0,Palo Alto,94306,0,5,0
+1086,"871 Sycamore Dr,Palo Alto, CA 94303",8995,5,3.5,2565.0,Palo Alto,94303,0,8,0
+1087,"2302 Santa Ana St,Palo Alto, CA 94303",8750,4,3,2405.0,Palo Alto,94303,0,6,0
+1088,"3974 Duncan Pl,Palo Alto, CA 94306",5495,3,2,1322.0,Palo Alto,94306,0,5,0
+1089,"Parksquare Apartments4290 Wilkie Way,Palo Alto, CA 94306",2950,2,1,850.0,Palo Alto,94306,2,10,7
+1090,"124 Lois Ln,Palo Alto, CA 94303",8500,4,2.5,2353.0,Palo Alto,94303,0,6,0
+1091,"Franklin Street1553 El Camino Real,Redwood City, CA 94063",3285,2,2,1159.0,Redwood City,94063,1,4,2
+1092,"The Villas at Bair Island Marina700 Bair Island Rd,Redwood City, CA 94063",3270,2,2,1034.0,Redwood City,94063,0,4,2
+1093,"Huxley1355 El Camino Real,Redwood City, CA 94063",3005,2,2,989.0,Redwood City,94063,1,15,13
+1094,"Riva Terra Apartments at Redwood Shores850 Davit Ln,Redwood City, CA 94065",2605,2,2,778.5,Redwood City,94065,1,12,12
+1095,"Schooner Bay Apartment Homes300 Timberhead Ln,Foster City, CA 94404",2929,2,2,997.0,Redwood City,94404,1,12,9
+1096,"707 Leahy Apartments707 Leahy St,Redwood City, CA 94061",2790,2,2,665.5,Redwood City,94061,2,11,8
+1097,"Avenue Two1107 2nd Ave,Redwood City, CA 94063",2148,2,2,751.5,Redwood City,94063,1,10,13
+1098,"223 Wheeler Ave,Redwood City, CA 94061",5095,3,2,1800.0,Redwood City,94061,0,1,2
+1099,"Indigo Apartment Homes500 Jefferson Ave #110,Redwood City, CA 94063",2779,2,2,1025.0,Redwood City,94063,3,8,6
+1100,"1240 Woodside Rd,Redwood City, CA 94061",3100,2,2,1035.0,Redwood City,94061,0,8,3
+1101,"642 Turnbuckle Dr,Redwood City, CA 94063",5300,3,2.5,1651.0,Redwood City,94063,0,10,1
+1102,"819 Villa Vista St,Emerald Hills, CA 94062",2450,0,1,500.0,Redwood City,94062,0,3,1
+1103,"Furnished Studio - San Francisco - Belmont120 Sem Ln,Belmont, CA 94002",3300,0,1,300.0,Redwood City,94002,0,11,13
+1104,"Furnished Studio - San Francisco - San Carlos3 Circle Star Way,San Carlos, CA 94070",3150,0,1,300.0,Redwood City,94070,0,11,13
+1105,"10 Passage Ln,Redwood City, CA 94065",4811,3,2,1610.0,Redwood City,94065,0,0,1
+1106,"1216 Westwood St,Redwood City, CA 94061",4900,2,1,970.0,Redwood City,94061,0,0,0
+1107,"1024 10th Ave,Redwood City, CA 94063",3995,2,2,1300.0,Redwood City,94063,0,1,1
+1108,"150 Harrison Ave,Redwood City, CA 94062",2750,1,1,600.0,Redwood City,94062,0,1,1
+1109,"122 Vera Ave,Redwood City, CA 94061",3000,1,1,850.0,Redwood City,94061,0,2,1
+1110,"635 2ND Ave,Redwood City, CA 94063",1000075,2,1,1190.0,Redwood City,94063,0,0,0
+1111,"22 Arch St,Redwood City, CA 94062",1875,0,1,310.0,Redwood City,94062,0,3,1
+1112,"538 Madison Ave,Redwood City, CA 94061",2000,1,1,600.0,Redwood City,94061,0,1,0
+1113,"62 Duane St,Redwood City, CA 94062",2295,1,1,668.0,Redwood City,94062,0,1,0
+1114,"172 Atherwood Ave,Redwood City, CA 94061",5595,4,2,1680.0,Redwood City,94061,0,4,3
+1115,"2031 Hull Ave,Redwood City, CA 94061",5200,3,2.5,1450.0,Redwood City,94061,0,4,0
+1116,"531 Cedar St,Redwood City, CA 94063",2950,2,1,750.0,Redwood City,94063,0,1,2
+1117,"2665 Carolina Ave,Redwood City, CA 94061",6000,4,2,1880.0,Redwood City,94061,0,5,1
+1118,"2483 Middlefield Rd,Redwood City, CA 94063",2550,1,1,650.0,Redwood City,94063,0,0,1
+1119,"130 Nimitz Ave,Redwood City, CA 94061",4195,3,2,1230.0,Redwood City,94061,0,5,0
+1120,"1014 Alameda de las Pulgas,Redwood City, CA 94061",4595,3,1,1120.0,Redwood City,94061,0,4,0
+1121,"631 True Wind Way #209,Redwood City, CA 94063",6600,3,2.5,1686.0,Redwood City,94063,0,2,3
+1122,"634 True Wind Way #811,Redwood City, CA 94063",3688,2,2,1400.0,Redwood City,94063,0,3,0
+1123,"570 Hampshire Ave,Redwood City, CA 94063",2952,2,1,800.0,Redwood City,94063,0,0,0
+1124,"253 Oak Ave Unit A,Redwood City, CA 94061",4000,2,2,1170.0,Redwood City,94061,0,5,2
+1125,"423 Center St #1,Redwood City, CA 94061",3295,2,2,980.0,Redwood City,94061,0,3,0
+1126,"3567 Farm Hill Blvd Unit 17,Redwood City, CA 94061",2750,2,1,800.0,Redwood City,94061,0,2,2
+1127,"348 4th Ave,Redwood City, CA 94063",1800,1,1,650.0,Redwood City,94063,0,1,0
+1128,"243 Wheeler Ave,Redwood City, CA 94061",3600,2,2.5,1200.0,Redwood City,94061,0,4,2
+1129,"Furnished Studio - San Francisco - San Mateo - SFO1830 Gateway Dr,San Mateo, CA 94404",3330,0,1,270.0,San Mateo,94404,0,10,13
+1130,"55 West Fifth Apartments55 W 5th Ave,San Mateo, CA 94402",2765,3,3,1331.0,San Mateo,94402,1,12,10
+1131,"Lantern Cove244 Rock Harbor Ln,Foster City, CA 94404",2908,2,2,952.0,San Mateo,94404,0,12,9
+1132,"Park Place at San Mateo1101 Park Pl,San Mateo, CA 94403",3049,3,2,1017.5,San Mateo,94403,1,16,12
+1133,"Casa Baywood Apartments212 S El Camino Real,San Mateo, CA 94401",2460,1,1,637.5,San Mateo,94401,1,12,7
+1134,"Brickline Flats20 N Ellsworth Ave,San Mateo, CA 94401",3395,1,1,580.0,San Mateo,94401,0,4,3
+1135,"CitySouth3055 La Selva St,San Mateo, CA 94403",2402,2,2,796.0,San Mateo,94403,3,3,12
+1136,"200 Elm St Unit upper,San Mateo, CA 94401",3300,2,2,1100.0,San Mateo,94401,0,2,2
+1137,"West 5th Apartments85 W 5th Ave,San Mateo, CA 94402",2612,3,3,1090.5,San Mateo,94402,2,4,4
+1138,"37 Baywood Ave,San Mateo, CA 94402",6800,2,2.5,2170.0,San Mateo,94402,0,0,0
+1139,"Crestview Apartments510 Crest View Ave,Belmont, CA 94002",2100,2,2,817.0,San Mateo,94002,1,11,9
+1140,"1556 Lodi Ave,San Mateo, CA 94401",4150,3,2,1015.0,San Mateo,94401,0,4,1
+1141,"711 S Bayshore Blvd,San Mateo, CA 94401",3300,2,1,740.0,San Mateo,94401,0,10,0
+1142,"531 Harvard Rd,San Mateo, CA 94402",8895,5,3,3620.0,San Mateo,94402,0,2,0
+1143,"Colonial Garden460 N Humboldt St,San Mateo, CA 94401",2545,3,1.5,839.5,San Mateo,94401,1,6,6
+1144,"Creekside1600 E 3rd Ave,San Mateo, CA 94401",2410,2,2,725.0,San Mateo,94401,1,8,4
+1145,"3655 Colegrove Apartments3655 Colegrove St,San Mateo, CA 94403",2395,1,1.5,753.5,San Mateo,94403,2,3,5
+1146,"Laurel Crossing Apartments Homes203 Laurie Meadows Dr,San Mateo, CA 94403",2273,2,2.5,802.0,San Mateo,94403,4,11,10
+1147,"21 S Claremont St #11,San Mateo, CA 94401",3395,2,1.5,1000.0,San Mateo,94401,0,5,0
+1148,"100 Irene Ct,Belmont, CA 94002",3495,2,2,1500.0,San Mateo,94002,0,1,1
+1149,"1516 S Claremont St,San Mateo, CA 94402",2295,1,1,700.0,San Mateo,94402,0,2,0
+1150,"2103 S Delaware St,San Mateo, CA 94403",2999,1,1,700.0,San Mateo,94403,0,4,1
+1151,"811 Highland Ave,San Mateo, CA 94401",4195,2,1,1400.0,San Mateo,94401,0,2,2
+1152,"3941 Pacific Blvd,San Mateo, CA 94403",2450,1,1,900.0,San Mateo,94403,0,0,0
+1153,"2209 Thurm Ave,Belmont, CA 94002",6200,3,3,2272.0,San Mateo,94002,0,2,1
+1154,"4220 George Ave #4,San Mateo, CA 94403",3250,2,2,1040.0,San Mateo,94403,0,2,3
+1155,"52 E 40th Ave,San Mateo, CA 94403",3275,2,2,856.0,San Mateo,94403,0,2,0
+1156,"527 N Bayshore Blvd,San Mateo, CA 94401",0,10,9.5,7271.0,San Mateo,94401,0,0,0
+1157,"21 S Claremont St #7,SAN MATEO, CA 94401",945200,2,1.5,1140.0,San Mateo,94401,0,0,0
+1158,"816 Highland Ave,San Mateo, CA 94401",3895,2,2,1110.0,San Mateo,94401,0,3,1
+1159,"2977 S Norfolk St #110,San Mateo, CA 94403",719445,2,2,889.0,San Mateo,94403,0,0,0
+1160,"24 Mounds Rd Unit D,San Mateo, CA 94402",5695,3,2,2506.0,San Mateo,94402,0,4,0
+1161,"139 Dartmouth Rd,San Mateo, CA 94402",1898568,6,2,2920.0,San Mateo,94402,0,0,0
+1162,"1533 De Anza Blvd,San Mateo, CA 94403",5700,3,3,2070.0,San Mateo,94403,0,4,1
+1163,"1411 E 3rd Ave Unit 8,San Mateo, CA 94401",2480,1,1,650.0,San Mateo,94401,0,1,0
+1164,"1009 S Norfolk St,San Mateo, CA 94401",2600,1,1,500.0,San Mateo,94401,0,3,1
+1165,"2712 Flores St,San Mateo, CA 94403",2400,1,1,750.0,San Mateo,94403,0,2,0
+1166,"123 E Santa Inez Ave,San Mateo, CA 94401",1253598,3,3,1750.0,San Mateo,94401,0,0,0
+1167,"3016 Del Ray St,San Mateo, CA 94403",4400,2,2,1070.0,San Mateo,94403,0,3,1
+1168,"2201 Vista del Mar,San Mateo, CA 94404",3450,2,1,1011.0,San Mateo,94404,0,5,1
+1169,"21 Lorton Ave,Burlingame, CA 94010",2495,1,1,825.0,San Mateo,94010,0,0,0
+1170,"49 Arroyo Ct,San Mateo, CA 94402",2750,1,1,827.0,San Mateo,94402,0,1,0
+1171,"172 W 38th Ave,San Mateo, CA 94403",3850,2,1,1100.0,San Mateo,94403,0,4,2
+1172,"825 N Humboldt St,San Mateo, CA 94401",3300,2,1.5,1150.0,San Mateo,94401,0,3,3
+1173,"19 9th Ave,San Mateo, CA 94401",3695,1,1,1006.0,San Mateo,94401,0,3,3
+1174,"10 S Grant St,San Mateo, CA 94401",1400,1,1,250.0,San Mateo,94401,0,3,0
+1175,"47 N Humboldt St,San Mateo, CA 94401",1300,1,1,200.0,San Mateo,94401,0,3,0
+1176,"668 N El Camino Real,San Mateo, CA 94401",4895,2,2.5,1330.0,San Mateo,94401,0,3,1
+1177,"108 Prague St,San Mateo, CA 94401",5000,4,2,1620.0,San Mateo,94401,0,3,2
+1178,"739 Highland Ave Unit 2,San Mateo, CA 94401",2700,1,1,650.0,San Mateo,94401,0,3,1
+1179,"909 10th Ave,San Mateo, CA 94402",5695,4,2,2180.0,San Mateo,94402,0,1,0
+1180,"1411 S B St,San Mateo, CA 94402",0,8,7,6461.0,San Mateo,94402,0,0,0
+1181,"1926 Ivy St,San Mateo, CA 94403",2500,1,1,500.0,San Mateo,94403,0,3,0
+1182,"413 Poinsettia Ave,San Mateo, CA 94403",5900,4,2.5,2040.0,San Mateo,94403,0,5,1
+1183,"1953 Vista del Mar,San Mateo, CA 94404",3100,1,1,765.0,San Mateo,94404,0,5,1
+1184,"121 Arroyo Ct,San Mateo, CA 94402",2550,1,1,780.0,San Mateo,94402,0,2,0
+1185,"1844 Shoreview Ave,San Mateo, CA 94401",3750,3,1,950.0,San Mateo,94401,0,6,1
+1186,"815 Highland Ave,San Mateo, CA 94401",3995,2,1,1200.0,San Mateo,94401,0,1,0
+1187,"1320 Palos Verdes Dr,San Mateo, CA 94403",2595,1,1,798.0,San Mateo,94403,0,4,0
+1188,"1155 Bayswater Ave Unit 102,Burlingame, CA 94010",2795,1,1,825.0,San Mateo,94010,0,3,2
+1189,"1301 W Hillsdale Blvd Unit 208,San Mateo, CA 94403",2725,1,1,850.0,San Mateo,94403,0,0,1
+1190,"815 E 4th Ave Unit 1 E4-7,San Mateo, CA 94401",2495,1,1,750.0,San Mateo,94401,0,3,1
+1191,"130 24th Ave Unit 130,San Mateo, CA 94403",4500,3,2,1400.0,San Mateo,94403,0,3,0
+1192,"10 S Grant St Unit 1,San Mateo, CA 94401",1850,1,1,350.0,San Mateo,94401,0,3,0
+1193,"873 Woodside Way,San Mateo, CA 94401",3000,2,1,956.0,San Mateo,94401,0,2,1
+1194,"804 19th Ave,San Mateo, CA 94403",2395,2,1,722.5,San Mateo,94403,2,6,7
+1195,"2870 Catalino St Unit K1,San Mateo, CA 94403",5295,4,3.5,1930.0,San Mateo,94403,0,5,0
+1196,"348 East Hillsdale Apartments348 E Hillsdale Blvd,San Mateo, CA 94403",2550,1,1,636.0,San Mateo,94403,2,9,4
+1197,"Waterstone Millbrae509 Poplar Ave,Millbrae, CA 94030",2550,2,2,850.0,Millbrae,94030,1,10,12
+1198,"88 Linden Ave Unit 1,San Bruno, CA 94066",2900,2,1,870.0,Millbrae,94066,0,0,0
+1199,"260 Barclay Ave,Millbrae, CA 94030",6000,5,2.5,2080.0,Millbrae,94030,0,3,0
+1200,"431 Richmond Dr Unit 1,Millbrae, CA 94030",4040,3,2,1400.0,Millbrae,94030,0,1,1
+1201,"500 Palm Ave,Millbrae, CA 94030",2400,1,1,735.0,Millbrae,94030,0,0,2
+1202,"506 Palm Ave,Millbrae, CA 94030",2550,1,1,735.0,Millbrae,94030,0,0,2
+1203,"203 Richmond Dr,Millbrae, CA 94030",2400,1,1,735.0,Millbrae,94030,0,0,2
+1204,"502 Palm Ave,Millbrae, CA 94030",2600,1,1,735.0,Millbrae,94030,0,0,2
+1205,"316 Lansdale Ave Unit Ave316BMillbrae,Millbrae, CA 94030",2800,2,1,900.0,Millbrae,94030,0,0,2
+1206,"300 Lansdale Ave Unit Ave300AMillbrae,Millbrae, CA 94030",3000,2,2,965.0,Millbrae,94030,0,0,2
+1207,"88 S Broadway #3410,Millbrae, CA 94030",3600,2,2,1260.0,Millbrae,94030,0,10,0
+1208,"215 Richmond Dr Unit Drive215DMillbrae,Millbrae, CA 94030",2800,2,1,900.0,Millbrae,94030,0,0,2
+1209,"217 Richmond Dr Unit Drive217AMillbrae,Millbrae, CA 94030",2950,1,1,735.0,Millbrae,94030,0,0,2
+1210,"322 Lansdale Ave Unit Ave322AMillbrae,Millbrae, CA 94030",3100,2,2,965.0,Millbrae,94030,0,0,2
+1211,"227 Richmond Dr Unit Drive227DMillbrae,Millbrae, CA 94030",2550,1,1,735.0,Millbrae,94030,0,0,2
+1212,"203 Richmond Dr Unit Drive203CMillbrae,Millbrae, CA 94030",2650,1,1,735.0,Millbrae,94030,0,0,2
+1213,"314 Lansdale Ave Unit Ave314AMillbrae,Millbrae, CA 94030",2800,2,1,900.0,Millbrae,94030,0,0,2
+1214,"221 Richmond Dr Unit CMillbrae,Millbrae, CA 94030",2800,2,1,900.0,Millbrae,94030,0,0,2
+1215,"207 Richmond Dr Unit Drive207AMillbrae,Millbrae, CA 94030",2550,1,1,735.0,Millbrae,94030,0,0,2
+1216,"310 Lansdale Ave Unit Ave310AMillbrae,Millbrae, CA 94030",2800,1,1,735.0,Millbrae,94030,0,0,2
+1217,"223 Richmond Dr Unit Drive223AMillbrae,Millbrae, CA 94030",3200,2,1,900.0,Millbrae,94030,0,0,2
+1218,"308 Lansdale Ave Unit Ave308CMillbrae,Millbrae, CA 94030",2650,1,1,735.0,Millbrae,94030,0,0,2
+1219,"318 Lansdale Ave Unit Ave318CMillbrae,Millbrae, CA 94030",3200,2,1,900.0,Millbrae,94030,0,0,2
+1220,"213 Richmond Dr Unit Drive213BMillbrae,Millbrae, CA 94030",3200,2,1,900.0,Millbrae,94030,0,0,2
+1221,"312 Lansdale Ave Unit Ave312DMillbrae,Millbrae, CA 94030",2800,2,1,900.0,Millbrae,94030,0,0,2
+1222,"318 Lansdale Ave Unit Ave318BMillbrae,Millbrae, CA 94030",3100,2,1,900.0,Millbrae,94030,0,0,2
+1223,"225 Richmond Dr Unit Drive225DMillbrae,Millbrae, CA 94030",2700,1,1,735.0,Millbrae,94030,0,0,2
+1224,"207 Richmond Dr Unit Drive207CMillbrae,Millbrae, CA 94030",2400,1,1,735.0,Millbrae,94030,0,0,2
+1225,"320 Lansdale Ave Unit Ave320DMillbrae,Millbrae, CA 94030",3000,2,2,965.0,Millbrae,94030,0,0,2
+1226,"225 Richmond Dr Unit Drive225CMillbrae,Millbrae, CA 94030",2600,1,1,735.0,Millbrae,94030,0,0,2
+1227,"312 Lansdale Ave Unit Ave312AMillbrae,Millbrae, CA 94030",3150,2,1,900.0,Millbrae,94030,0,0,2
+1228,"221 Richmond Dr Unit Drive221DMillbrae,Millbrae, CA 94030",3200,2,1,900.0,Millbrae,94030,0,0,2
+1229,"310 Lansdale Ave Unit Ave310BMillbrae,Millbrae, CA 94030",2400,1,1,735.0,Millbrae,94030,0,0,2
+1230,"316 Lansdale Ave Unit Ave316CMillbrae,Millbrae, CA 94030",3150,2,1,900.0,Millbrae,94030,0,0,2
+1231,"225 Richmond Dr Unit Drive225AMillbrae,Millbrae, CA 94030",2650,1,1,735.0,Millbrae,94030,0,0,2
+1232,"300 Lansdale Ave Unit Ave300CMillbrae,Millbrae, CA 94030",3300,2,2,965.0,Millbrae,94030,0,0,2
+1233,"215 Richmond Dr Unit Drive215BMillbrae,Millbrae, CA 94030",3200,2,1,900.0,Millbrae,94030,0,0,2
+1234,"308 Lansdale Ave Unit Ave308AMillbrae,Millbrae, CA 94030",2900,1,1,735.0,Millbrae,94030,0,0,2
+1235,"322 Lansdale Ave Unit Ave322DMillbrae,Millbrae, CA 94030",3500,2,2,965.0,Millbrae,94030,0,0,2
+1236,"316 Lansdale Ave Unit Ave316DMillbrae,Millbrae, CA 94030",3100,2,1,900.0,Millbrae,94030,0,0,2
+1237,"221 Richmond Dr Unit Drive221B,Millbrae, CA 94030",3100,2,1,900.0,Millbrae,94030,0,0,2
+1238,"205 Richmond Dr Unit Drive205AMillbrae,Millbrae, CA 94030",2400,1,1,735.0,Millbrae,94030,0,0,2
+1239,"217 Richmond Dr Unit Drive217CMillbrae,Millbrae, CA 94030",2400,1,1,735.0,Millbrae,94030,0,0,2
+1240,"314 Lansdale Ave Unit Ave314BMillbrae,Millbrae, CA 94030",3200,2,1,900.0,Millbrae,94030,0,0,2
+1241,"211 Richmond Dr Unit Drive211DMillbrae,Millbrae, CA 94030",2600,1,1,735.0,Millbrae,94030,0,0,2
+1242,"302 Lansdale Ave Unit Ave302AMillbrae,Millbrae, CA 94030",3300,2,2,965.0,Millbrae,94030,0,0,2
+1243,"South City Station101 Mc Lellan Dr,South San Francisco, CA 94080",2741,2,2,779.0,South San Francisco,94080,1,11,12
+1244,"Peninsula Pines Apartments842 Antoinette Ln,South San Francisco, CA 94080",1822,3,2,745.0,South San Francisco,94080,1,10,13
+1245,"125 Rosa Flora Cir,South San Francisco, CA 94080",4545,3,2.5,1880.0,South San Francisco,94080,0,3,0
+1246,"27 Wilms Ave,South San Francisco, CA 94080",2800,2,1,1000.0,South San Francisco,94080,0,0,1
+1247,"67 Appian Way Unit A,South San Francisco, CA 94080",4999,2,2,1250.0,South San Francisco,94080,0,0,2
+1248,"401 Commercial Ave,South San Francisco, CA 94080",4200,3,2,1608.0,South San Francisco,94080,0,4,2
+1249,"724 Newman Dr Unit A,South San Francisco, CA 94080",2700,1,1,500.0,South San Francisco,94080,0,1,1
+1250,"120 Carnelian Rd,South San Francisco, CA 94080",4195,3,2.5,1580.0,South San Francisco,94080,0,5,0
+1251,"1488 El Camino Real #207,South San Francisco, CA 94080",3300,2,2,1000.0,South San Francisco,94080,0,5,2
+1252,"27 Wilms Ave Unit A,South San Francisco, CA 94080",1500,1,1,1000.0,South San Francisco,94080,0,0,1
+1253,"10 Clover Cir,South San Francisco, CA 94080",4300,4,2,1500.0,South San Francisco,94080,0,5,2
+1254,"347 Valencia Dr Unit Patio,South San Francisco, CA 94080",2940,2,1,750.0,South San Francisco,94080,0,2,1
+1255,"600 Stonegate Dr Unit 20,South San Francisco, CA 94080",3950,3,2.5,1628.0,South San Francisco,94080,0,4,0
+1256,"210 Armour Ave Unit 10,South San Francisco, CA 94080",3295,3,1,950.0,South San Francisco,94080,0,3,2
+1257,"2655 Tyrone Ct,South San Francisco, CA 94080",4500,3,2.5,1800.0,South San Francisco,94080,0,4,0
+1258,"eaves Pacifica265 Gateway Dr,Pacifica, CA 94044",2660,2,2,850.0,Daly City,94044,1,6,14
+1259,"88 Hillside Blvd,Daly City, CA 94014",3049,3,3,1309.5,Daly City,94014,0,10,5
+1260,"Serramonte Ridge862 Campus Dr,Daly City, CA 94015",2055,2,2,713.0,Daly City,94015,1,13,12
+1261,"Westlake Village331 Park Plaza Dr,Daly City, CA 94015",1825,3,2,758.5,Daly City,94015,1,7,4
+1262,"La Terrazza7800 El Camino Real,Colma, CA 94014",2715,3,2,879.5,Daly City,94014,1,11,3
+1263,"80 El Portal Way,Daly City, CA 94015",950,1,1,500.0,Daly City,94015,0,0,0
+1264,"355 Half Moon Ln #10,Daly City, CA 94015",2500,1,1,788.0,Daly City,94015,0,3,2
+1265,"321 Winding Way,San Francisco, CA 94112",4489,3,2,1515.0,Daly City,94112,0,4,0
+1266,"101 Del Prado Dr Unit 3,Daly City, CA 94015",1300,1,1,143.0,Daly City,94015,0,3,0
+1267,"389 88th St,Daly City, CA 94015",2400,2,1.5,775.0,Daly City,94015,0,0,0
+1268,"375 Mandarin Dr #109,Daly City, CA 94015",2300,1,1,717.0,Daly City,94015,0,0,0
+1269,"125 Del Monte Dr,Pacifica, CA 94044",850,1,1,2380.0,Daly City,94044,0,1,0
+1270,"235 Del Prado Dr,Daly City, CA 94015",4395,4,3,1950.0,Daly City,94015,0,5,0
+1271,"556 Verducci Dr,Daly City, CA 94015",3800,3,2,1270.0,Daly City,94015,0,1,1
+1272,"783 Green Ridge Dr,Daly City, CA 94014",4500,3,2,1500.0,Daly City,94014,0,1,1
+1273,"144 Westmoor Ave,Daly City, CA 94015",2240,1,1,400.0,Daly City,94015,0,2,0
+1274,"79 Bruno Ave,Daly City, CA 94014",2300,2,1,600.0,Daly City,94014,0,1,0
+1275,"482 Southhill Blvd,Daly City, CA 94014",3100,2,1,1125.0,Daly City,94014,0,3,2
+1276,"1404 Birchwood Ct,San Francisco, CA 94134",3250,2,2,1081.0,Daly City,94134,0,3,1
+1277,"163 Flournoy St,Daly City, CA 94014",2240,1,1,350.0,Daly City,94014,0,1,0
+1278,"50 Clearview Dr,Daly City, CA 94015",1104961,3,2,1230.0,Daly City,94015,0,0,0
+1279,"216 Mariposa Ave,Daly City, CA 94015",4490,4,2,1270.0,Daly City,94015,0,2,0
+1280,"390 Ardendale Dr,Daly City, CA 94014",3590,3,2,1270.0,Daly City,94014,0,2,2
+1281,"243 Miriam St,Daly City, CA 94014",2100,2,1,550.0,Daly City,94014,0,0,0
+1282,"230 Lowell St Unit 4,San Francisco, CA 94112",2500,2,1,600.0,Daly City,94112,0,1,0
+1283,"424 Santa Barbara Ave Unit 2,Daly City, CA 94014",2800,2,1,950.0,Daly City,94014,0,1,1
+1284,"4 Alisal Ct,Pacifica, CA 94044",5000,4,3,2210.0,Daly City,94044,0,2,1
+1285,"468 90th St Unit 205,Daly City, CA 94015",2100,1,1,515.0,Daly City,94015,0,5,2
+1286,"40 John Glenn Cir,Daly City, CA 94015",3999,4,2,1700.0,Daly City,94015,0,1,0
+1287,"372 Imperial Way #1,Daly City, CA 94015",2650,1,1,810.0,Daly City,94015,0,5,4
+1288,"1016 San Gabriel Cir #527,Daly City, CA 94014",2700,1,1,650.0,Daly City,94014,0,3,0
